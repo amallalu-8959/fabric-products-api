@@ -1,0 +1,6006 @@
+{
+  "page": 1,
+  "total_records": 1000,
+  "data": [
+    {
+      "product_id": 1,
+      "product_name": "Product_1",
+      "category": "Grocery",
+      "price": 6051.07
+    },
+    {
+      "product_id": 2,
+      "product_name": "Product_2",
+      "category": "Sports",
+      "price": 3117.15
+    },
+    {
+      "product_id": 3,
+      "product_name": "Product_3",
+      "category": "Grocery",
+      "price": 4757.12
+    },
+    {
+      "product_id": 4,
+      "product_name": "Product_4",
+      "category": "Electronics",
+      "price": 1102.58
+    },
+    {
+      "product_id": 5,
+      "product_name": "Product_5",
+      "category": "Grocery",
+      "price": 2887.55
+    },
+    {
+      "product_id": 6,
+      "product_name": "Product_6",
+      "category": NaN,
+      "price": 7028.8
+    },
+    {
+      "product_id": 7,
+      "product_name": "Product_7",
+      "category": "Electronics",
+      "price": 5971.31
+    },
+    {
+      "product_id": 8,
+      "product_name": "Product_8",
+      "category": "Grocery",
+      "price": 8705.34
+    },
+    {
+      "product_id": 9,
+      "product_name": "Product_9",
+      "category": "Grocery",
+      "price": 9071.8
+    },
+    {
+      "product_id": 10,
+      "product_name": "Product_10",
+      "category": "Sports",
+      "price": 1744.23
+    },
+    {
+      "product_id": 11,
+      "product_name": "Product_11",
+      "category": "Home",
+      "price": 8370.85
+    },
+    {
+      "product_id": 12,
+      "product_name": "Product_12",
+      "category": NaN,
+      "price": 8282.25
+    },
+    {
+      "product_id": 13,
+      "product_name": "Product_13",
+      "category": NaN,
+      "price": 3970.48
+    },
+    {
+      "product_id": 14,
+      "product_name": "Product_14",
+      "category": "Sports",
+      "price": 464.18
+    },
+    {
+      "product_id": 15,
+      "product_name": "product_15",
+      "category": "Home",
+      "price": 9458.98
+    },
+    {
+      "product_id": 16,
+      "product_name": "Product_16",
+      "category": "Grocery",
+      "price": 2011.38
+    },
+    {
+      "product_id": 17,
+      "product_name": "Product_17",
+      "category": "Home",
+      "price": 7550.84
+    },
+    {
+      "product_id": 18,
+      "product_name": "Product_18",
+      "category": "Grocery",
+      "price": 7432.1
+    },
+    {
+      "product_id": 19,
+      "product_name": "Product_19",
+      "category": "Sports",
+      "price": 9043.94
+    },
+    {
+      "product_id": 20,
+      "product_name": "Product_20",
+      "category": "Sports",
+      "price": 2000.36
+    },
+    {
+      "product_id": 21,
+      "product_name": "Product_21",
+      "category": "Fashion",
+      "price": 7367.03
+    },
+    {
+      "product_id": 22,
+      "product_name": "Product_22",
+      "category": "Sports",
+      "price": 7515.42
+    },
+    {
+      "product_id": 23,
+      "product_name": "Product_23",
+      "category": NaN,
+      "price": 8749.62
+    },
+    {
+      "product_id": 24,
+      "product_name": "Product_24",
+      "category": "Fashion",
+      "price": 1052.96
+    },
+    {
+      "product_id": 25,
+      "product_name": "Product_25",
+      "category": NaN,
+      "price": 7863.39
+    },
+    {
+      "product_id": 26,
+      "product_name": "Product_26",
+      "category": "Grocery",
+      "price": 9537.95
+    },
+    {
+      "product_id": 27,
+      "product_name": "Product_27",
+      "category": "Electronics",
+      "price": 4890.35
+    },
+    {
+      "product_id": 28,
+      "product_name": "Product_28",
+      "category": "Fashion",
+      "price": 6260.39
+    },
+    {
+      "product_id": 29,
+      "product_name": "Product_29",
+      "category": "Grocery",
+      "price": 1752.36
+    },
+    {
+      "product_id": 30,
+      "product_name": "product_30",
+      "category": "Grocery",
+      "price": 595.88
+    },
+    {
+      "product_id": 31,
+      "product_name": "Product_31",
+      "category": "Fashion",
+      "price": 6944.21
+    },
+    {
+      "product_id": 32,
+      "product_name": "Product_32",
+      "category": "Grocery",
+      "price": 1342.89
+    },
+    {
+      "product_id": 33,
+      "product_name": "Product_33",
+      "category": "Electronics",
+      "price": 4478.01
+    },
+    {
+      "product_id": 34,
+      "product_name": "Product_34",
+      "category": "Sports",
+      "price": 8894.16
+    },
+    {
+      "product_id": 35,
+      "product_name": "Product_35",
+      "category": "Home",
+      "price": 5649.37
+    },
+    {
+      "product_id": 36,
+      "product_name": "Product_36",
+      "category": NaN,
+      "price": 7042.41
+    },
+    {
+      "product_id": 37,
+      "product_name": "Product_37",
+      "category": "Home",
+      "price": 9265.47
+    },
+    {
+      "product_id": 38,
+      "product_name": "Product_38",
+      "category": NaN,
+      "price": 7287.26
+    },
+    {
+      "product_id": 39,
+      "product_name": "Product_39",
+      "category": NaN,
+      "price": 2777.56
+    },
+    {
+      "product_id": 40,
+      "product_name": "Product_40",
+      "category": "Electronics",
+      "price": 5290.07
+    },
+    {
+      "product_id": 41,
+      "product_name": "Product_41",
+      "category": "Electronics",
+      "price": 7770.12
+    },
+    {
+      "product_id": 42,
+      "product_name": "Product_42",
+      "category": "Fashion",
+      "price": 1243.7
+    },
+    {
+      "product_id": 43,
+      "product_name": "Product_43",
+      "category": "Fashion",
+      "price": 1014.6
+    },
+    {
+      "product_id": 44,
+      "product_name": "Product_44",
+      "category": "Fashion",
+      "price": 1827.5
+    },
+    {
+      "product_id": 45,
+      "product_name": "product_45",
+      "category": "Sports",
+      "price": 6153.29
+    },
+    {
+      "product_id": 46,
+      "product_name": "Product_46",
+      "category": NaN,
+      "price": 4545.35
+    },
+    {
+      "product_id": 47,
+      "product_name": "Product_47",
+      "category": "Sports",
+      "price": 5817.22
+    },
+    {
+      "product_id": 48,
+      "product_name": "Product_48",
+      "category": "Home",
+      "price": 366.13
+    },
+    {
+      "product_id": 49,
+      "product_name": "Product_49",
+      "category": "Electronics",
+      "price": 8499.89
+    },
+    {
+      "product_id": 50,
+      "product_name": "Product_50",
+      "category": "Sports",
+      "price": 3678.04
+    },
+    {
+      "product_id": 51,
+      "product_name": "Product_51",
+      "category": "Electronics",
+      "price": 7790.6
+    },
+    {
+      "product_id": 52,
+      "product_name": "Product_52",
+      "category": "Grocery",
+      "price": 8725.34
+    },
+    {
+      "product_id": 53,
+      "product_name": "Product_53",
+      "category": NaN,
+      "price": 9139.53
+    },
+    {
+      "product_id": 54,
+      "product_name": "Product_54",
+      "category": "Sports",
+      "price": 940.72
+    },
+    {
+      "product_id": 55,
+      "product_name": "Product_55",
+      "category": "Electronics",
+      "price": 7047.71
+    },
+    {
+      "product_id": 56,
+      "product_name": "Product_56",
+      "category": "Sports",
+      "price": 5769.52
+    },
+    {
+      "product_id": 57,
+      "product_name": "Product_57",
+      "category": "Home",
+      "price": 6431.15
+    },
+    {
+      "product_id": 58,
+      "product_name": "Product_58",
+      "category": "Electronics",
+      "price": 5939.4
+    },
+    {
+      "product_id": 59,
+      "product_name": "Product_59",
+      "category": NaN,
+      "price": 9892.58
+    },
+    {
+      "product_id": 60,
+      "product_name": "product_60",
+      "category": "Grocery",
+      "price": 1782.71
+    },
+    {
+      "product_id": 61,
+      "product_name": "Product_61",
+      "category": NaN,
+      "price": 7092.6
+    },
+    {
+      "product_id": 62,
+      "product_name": "Product_62",
+      "category": "Grocery",
+      "price": 3036.69
+    },
+    {
+      "product_id": 63,
+      "product_name": "Product_63",
+      "category": "Fashion",
+      "price": 6201.92
+    },
+    {
+      "product_id": 64,
+      "product_name": "Product_64",
+      "category": "Sports",
+      "price": 4911.29
+    },
+    {
+      "product_id": 65,
+      "product_name": "Product_65",
+      "category": "Home",
+      "price": 1492.18
+    },
+    {
+      "product_id": 66,
+      "product_name": "Product_66",
+      "category": NaN,
+      "price": 2005.8
+    },
+    {
+      "product_id": 67,
+      "product_name": "Product_67",
+      "category": "Grocery",
+      "price": 5520.72
+    },
+    {
+      "product_id": 68,
+      "product_name": "Product_68",
+      "category": "Home",
+      "price": 9127.17
+    },
+    {
+      "product_id": 69,
+      "product_name": "Product_69",
+      "category": "Fashion",
+      "price": 2315.24
+    },
+    {
+      "product_id": 70,
+      "product_name": "Product_70",
+      "category": "Electronics",
+      "price": 749.98
+    },
+    {
+      "product_id": 71,
+      "product_name": "Product_71",
+      "category": "Sports",
+      "price": 3178.35
+    },
+    {
+      "product_id": 72,
+      "product_name": "Product_72",
+      "category": "Sports",
+      "price": 4041.51
+    },
+    {
+      "product_id": 73,
+      "product_name": "Product_73",
+      "category": "Home",
+      "price": 1501.08
+    },
+    {
+      "product_id": 74,
+      "product_name": "Product_74",
+      "category": "Electronics",
+      "price": 8191.84
+    },
+    {
+      "product_id": 75,
+      "product_name": "product_75",
+      "category": "Fashion",
+      "price": 2407.66
+    },
+    {
+      "product_id": 76,
+      "product_name": "Product_76",
+      "category": "Fashion",
+      "price": 5806.29
+    },
+    {
+      "product_id": 77,
+      "product_name": "Product_77",
+      "category": NaN,
+      "price": 8393.82
+    },
+    {
+      "product_id": 78,
+      "product_name": "Product_78",
+      "category": "Electronics",
+      "price": 4579.29
+    },
+    {
+      "product_id": 79,
+      "product_name": "Product_79",
+      "category": "Grocery",
+      "price": 3183.64
+    },
+    {
+      "product_id": 80,
+      "product_name": "Product_80",
+      "category": "Fashion",
+      "price": 8270.14
+    },
+    {
+      "product_id": 81,
+      "product_name": "Product_81",
+      "category": "Grocery",
+      "price": 1600.82
+    },
+    {
+      "product_id": 82,
+      "product_name": "Product_82",
+      "category": "Fashion",
+      "price": 6349.98
+    },
+    {
+      "product_id": 83,
+      "product_name": "Product_83",
+      "category": "Grocery",
+      "price": 8530.12
+    },
+    {
+      "product_id": 84,
+      "product_name": "Product_84",
+      "category": NaN,
+      "price": 1457.46
+    },
+    {
+      "product_id": 85,
+      "product_name": "Product_85",
+      "category": NaN,
+      "price": 7460.07
+    },
+    {
+      "product_id": 86,
+      "product_name": "Product_86",
+      "category": "Fashion",
+      "price": -34.84
+    },
+    {
+      "product_id": 87,
+      "product_name": "Product_87",
+      "category": "Sports",
+      "price": 4862.44
+    },
+    {
+      "product_id": 88,
+      "product_name": "Product_88",
+      "category": "Fashion",
+      "price": 6890.98
+    },
+    {
+      "product_id": 89,
+      "product_name": "Product_89",
+      "category": "Sports",
+      "price": 1639.65
+    },
+    {
+      "product_id": 90,
+      "product_name": "product_90",
+      "category": NaN,
+      "price": 9445.93
+    },
+    {
+      "product_id": 91,
+      "product_name": "Product_91",
+      "category": "Electronics",
+      "price": 6650.07
+    },
+    {
+      "product_id": 92,
+      "product_name": "Product_92",
+      "category": "Sports",
+      "price": 1755.63
+    },
+    {
+      "product_id": 93,
+      "product_name": "Product_93",
+      "category": "Grocery",
+      "price": 1639.85
+    },
+    {
+      "product_id": 94,
+      "product_name": "Product_94",
+      "category": "Sports",
+      "price": 7770.63
+    },
+    {
+      "product_id": 95,
+      "product_name": "Product_95",
+      "category": "Electronics",
+      "price": 9846.65
+    },
+    {
+      "product_id": 96,
+      "product_name": "Product_96",
+      "category": "Grocery",
+      "price": 2702.65
+    },
+    {
+      "product_id": 97,
+      "product_name": "Product_97",
+      "category": "Sports",
+      "price": 5422.5
+    },
+    {
+      "product_id": 98,
+      "product_name": "Product_98",
+      "category": "Home",
+      "price": 6024.92
+    },
+    {
+      "product_id": 99,
+      "product_name": "Product_99",
+      "category": "Grocery",
+      "price": 777.46
+    },
+    {
+      "product_id": 100,
+      "product_name": "Product_100",
+      "category": "Fashion",
+      "price": 3431.22
+    },
+    {
+      "product_id": 101,
+      "product_name": "Product_101",
+      "category": "Home",
+      "price": 5703.84
+    },
+    {
+      "product_id": 102,
+      "product_name": "Product_102",
+      "category": NaN,
+      "price": 9259.42
+    },
+    {
+      "product_id": 103,
+      "product_name": "Product_103",
+      "category": "Electronics",
+      "price": 1386.39
+    },
+    {
+      "product_id": 104,
+      "product_name": "Product_104",
+      "category": "Sports",
+      "price": 4986.56
+    },
+    {
+      "product_id": 105,
+      "product_name": "product_105",
+      "category": "Sports",
+      "price": 714.02
+    },
+    {
+      "product_id": 106,
+      "product_name": "Product_106",
+      "category": "Home",
+      "price": 6678.82
+    },
+    {
+      "product_id": 107,
+      "product_name": "Product_107",
+      "category": "Grocery",
+      "price": 1687.18
+    },
+    {
+      "product_id": 108,
+      "product_name": "Product_108",
+      "category": "Home",
+      "price": 1137.82
+    },
+    {
+      "product_id": 109,
+      "product_name": "Product_109",
+      "category": "Fashion",
+      "price": 2848.09
+    },
+    {
+      "product_id": 110,
+      "product_name": "Product_110",
+      "category": "Grocery",
+      "price": 8422.11
+    },
+    {
+      "product_id": 111,
+      "product_name": "Product_111",
+      "category": "Home",
+      "price": 6693.19
+    },
+    {
+      "product_id": 112,
+      "product_name": "Product_112",
+      "category": "Home",
+      "price": 9234.67
+    },
+    {
+      "product_id": 113,
+      "product_name": "Product_113",
+      "category": NaN,
+      "price": 1011.77
+    },
+    {
+      "product_id": 114,
+      "product_name": "Product_114",
+      "category": "Electronics",
+      "price": 7233.17
+    },
+    {
+      "product_id": 115,
+      "product_name": "Product_115",
+      "category": NaN,
+      "price": 5485.69
+    },
+    {
+      "product_id": 116,
+      "product_name": "Product_116",
+      "category": "Home",
+      "price": 4829.74
+    },
+    {
+      "product_id": 117,
+      "product_name": "Product_117",
+      "category": "Home",
+      "price": 7428.33
+    },
+    {
+      "product_id": 118,
+      "product_name": "Product_118",
+      "category": "Home",
+      "price": 1018.86
+    },
+    {
+      "product_id": 119,
+      "product_name": "Product_119",
+      "category": "Electronics",
+      "price": 2975.29
+    },
+    {
+      "product_id": 120,
+      "product_name": "product_120",
+      "category": "Home",
+      "price": 3072.97
+    },
+    {
+      "product_id": 121,
+      "product_name": "Product_121",
+      "category": NaN,
+      "price": 6841.03
+    },
+    {
+      "product_id": 122,
+      "product_name": "Product_122",
+      "category": "Home",
+      "price": 6664.71
+    },
+    {
+      "product_id": 123,
+      "product_name": "Product_123",
+      "category": "Electronics",
+      "price": 1651.78
+    },
+    {
+      "product_id": 124,
+      "product_name": "Product_124",
+      "category": "Sports",
+      "price": 4795.98
+    },
+    {
+      "product_id": 125,
+      "product_name": "Product_125",
+      "category": "Electronics",
+      "price": 6319.45
+    },
+    {
+      "product_id": 126,
+      "product_name": "Product_126",
+      "category": "Sports",
+      "price": 8564.85
+    },
+    {
+      "product_id": 127,
+      "product_name": "Product_127",
+      "category": "Home",
+      "price": 4716.77
+    },
+    {
+      "product_id": 128,
+      "product_name": "Product_128",
+      "category": "Sports",
+      "price": 8403.16
+    },
+    {
+      "product_id": 129,
+      "product_name": "Product_129",
+      "category": "Electronics",
+      "price": 4686.01
+    },
+    {
+      "product_id": 130,
+      "product_name": "Product_130",
+      "category": NaN,
+      "price": 8825.58
+    },
+    {
+      "product_id": 131,
+      "product_name": "Product_131",
+      "category": "Fashion",
+      "price": 3328.16
+    },
+    {
+      "product_id": 132,
+      "product_name": "Product_132",
+      "category": "Home",
+      "price": 7829.58
+    },
+    {
+      "product_id": 133,
+      "product_name": "Product_133",
+      "category": "Fashion",
+      "price": 3950.07
+    },
+    {
+      "product_id": 134,
+      "product_name": "Product_134",
+      "category": "Home",
+      "price": 7584.21
+    },
+    {
+      "product_id": 135,
+      "product_name": "product_135",
+      "category": NaN,
+      "price": 3520.62
+    },
+    {
+      "product_id": 136,
+      "product_name": "Product_136",
+      "category": NaN,
+      "price": 8035.19
+    },
+    {
+      "product_id": 137,
+      "product_name": "Product_137",
+      "category": "Fashion",
+      "price": 5525.9
+    },
+    {
+      "product_id": 138,
+      "product_name": "Product_138",
+      "category": "Sports",
+      "price": 4684.96
+    },
+    {
+      "product_id": 139,
+      "product_name": "Product_139",
+      "category": "Fashion",
+      "price": 7328.11
+    },
+    {
+      "product_id": 140,
+      "product_name": "Product_140",
+      "category": NaN,
+      "price": 7114.57
+    },
+    {
+      "product_id": 141,
+      "product_name": "Product_141",
+      "category": "Sports",
+      "price": 5557.77
+    },
+    {
+      "product_id": 142,
+      "product_name": "Product_142",
+      "category": NaN,
+      "price": 4838.17
+    },
+    {
+      "product_id": 143,
+      "product_name": "Product_143",
+      "category": "Grocery",
+      "price": 4818.3
+    },
+    {
+      "product_id": 144,
+      "product_name": "Product_144",
+      "category": "Fashion",
+      "price": 4845.94
+    },
+    {
+      "product_id": 145,
+      "product_name": "Product_145",
+      "category": "Electronics",
+      "price": 8726.04
+    },
+    {
+      "product_id": 146,
+      "product_name": "Product_146",
+      "category": "Electronics",
+      "price": 4292.06
+    },
+    {
+      "product_id": 147,
+      "product_name": "Product_147",
+      "category": NaN,
+      "price": 5509.35
+    },
+    {
+      "product_id": 148,
+      "product_name": "Product_148",
+      "category": "Fashion",
+      "price": 4288.2
+    },
+    {
+      "product_id": 149,
+      "product_name": "Product_149",
+      "category": "Fashion",
+      "price": 6257.38
+    },
+    {
+      "product_id": 150,
+      "product_name": "product_150",
+      "category": "Fashion",
+      "price": 2506.23
+    },
+    {
+      "product_id": 151,
+      "product_name": "Product_151",
+      "category": "Sports",
+      "price": 351.79
+    },
+    {
+      "product_id": 152,
+      "product_name": "Product_152",
+      "category": "Fashion",
+      "price": 7176.78
+    },
+    {
+      "product_id": 153,
+      "product_name": "Product_153",
+      "category": "Fashion",
+      "price": 4893.09
+    },
+    {
+      "product_id": 154,
+      "product_name": "Product_154",
+      "category": "Fashion",
+      "price": 9550.09
+    },
+    {
+      "product_id": 155,
+      "product_name": "Product_155",
+      "category": NaN,
+      "price": 9419.67
+    },
+    {
+      "product_id": 156,
+      "product_name": "Product_156",
+      "category": "Sports",
+      "price": 6432.3
+    },
+    {
+      "product_id": 157,
+      "product_name": "Product_157",
+      "category": "Grocery",
+      "price": 3258.46
+    },
+    {
+      "product_id": 158,
+      "product_name": "Product_158",
+      "category": "Fashion",
+      "price": 9649.69
+    },
+    {
+      "product_id": 159,
+      "product_name": "Product_159",
+      "category": "Sports",
+      "price": 3515.28
+    },
+    {
+      "product_id": 160,
+      "product_name": "Product_160",
+      "category": "Home",
+      "price": 9588.12
+    },
+    {
+      "product_id": 161,
+      "product_name": "Product_161",
+      "category": "Fashion",
+      "price": 4505.44
+    },
+    {
+      "product_id": 162,
+      "product_name": "Product_162",
+      "category": "Sports",
+      "price": 933.04
+    },
+    {
+      "product_id": 163,
+      "product_name": "Product_163",
+      "category": "Sports",
+      "price": 866.79
+    },
+    {
+      "product_id": 164,
+      "product_name": "Product_164",
+      "category": "Grocery",
+      "price": 9724.83
+    },
+    {
+      "product_id": 165,
+      "product_name": "product_165",
+      "category": "Home",
+      "price": 8487.85
+    },
+    {
+      "product_id": 166,
+      "product_name": "Product_166",
+      "category": "Grocery",
+      "price": 9604.36
+    },
+    {
+      "product_id": 167,
+      "product_name": "Product_167",
+      "category": NaN,
+      "price": 9970.07
+    },
+    {
+      "product_id": 168,
+      "product_name": "Product_168",
+      "category": "Electronics",
+      "price": 663.68
+    },
+    {
+      "product_id": 169,
+      "product_name": "Product_169",
+      "category": NaN,
+      "price": 968.68
+    },
+    {
+      "product_id": 170,
+      "product_name": "Product_170",
+      "category": NaN,
+      "price": 3139.88
+    },
+    {
+      "product_id": 171,
+      "product_name": "Product_171",
+      "category": "Home",
+      "price": 5161.1
+    },
+    {
+      "product_id": 172,
+      "product_name": "Product_172",
+      "category": "Fashion",
+      "price": 8562.8
+    },
+    {
+      "product_id": 173,
+      "product_name": "Product_173",
+      "category": "Electronics",
+      "price": 9108.4
+    },
+    {
+      "product_id": 174,
+      "product_name": "Product_174",
+      "category": "Fashion",
+      "price": 5157.24
+    },
+    {
+      "product_id": 175,
+      "product_name": "Product_175",
+      "category": "Fashion",
+      "price": 2071.26
+    },
+    {
+      "product_id": 176,
+      "product_name": "Product_176",
+      "category": "Electronics",
+      "price": 8124.67
+    },
+    {
+      "product_id": 177,
+      "product_name": "Product_177",
+      "category": "Fashion",
+      "price": 7638.26
+    },
+    {
+      "product_id": 178,
+      "product_name": "Product_178",
+      "category": NaN,
+      "price": 5239.76
+    },
+    {
+      "product_id": 179,
+      "product_name": "Product_179",
+      "category": "Home",
+      "price": 9216.07
+    },
+    {
+      "product_id": 180,
+      "product_name": "product_180",
+      "category": NaN,
+      "price": 3662.67
+    },
+    {
+      "product_id": 181,
+      "product_name": "Product_181",
+      "category": "Electronics",
+      "price": 9007.87
+    },
+    {
+      "product_id": 182,
+      "product_name": "Product_182",
+      "category": "Grocery",
+      "price": 7263.53
+    },
+    {
+      "product_id": 183,
+      "product_name": "Product_183",
+      "category": "Electronics",
+      "price": 7801.0
+    },
+    {
+      "product_id": 184,
+      "product_name": "Product_184",
+      "category": "Fashion",
+      "price": 7562.35
+    },
+    {
+      "product_id": 185,
+      "product_name": "Product_185",
+      "category": "Electronics",
+      "price": 328.91
+    },
+    {
+      "product_id": 186,
+      "product_name": "Product_186",
+      "category": "Grocery",
+      "price": 260.66
+    },
+    {
+      "product_id": 187,
+      "product_name": "Product_187",
+      "category": "Home",
+      "price": 4114.61
+    },
+    {
+      "product_id": 188,
+      "product_name": "Product_188",
+      "category": "Grocery",
+      "price": 8420.83
+    },
+    {
+      "product_id": 189,
+      "product_name": "Product_189",
+      "category": NaN,
+      "price": 3404.95
+    },
+    {
+      "product_id": 190,
+      "product_name": "Product_190",
+      "category": "Fashion",
+      "price": 8282.52
+    },
+    {
+      "product_id": 191,
+      "product_name": "Product_191",
+      "category": NaN,
+      "price": 9975.16
+    },
+    {
+      "product_id": 192,
+      "product_name": "Product_192",
+      "category": "Sports",
+      "price": 8295.43
+    },
+    {
+      "product_id": 193,
+      "product_name": "Product_193",
+      "category": "Electronics",
+      "price": 7381.65
+    },
+    {
+      "product_id": 194,
+      "product_name": "Product_194",
+      "category": "Fashion",
+      "price": 9212.11
+    },
+    {
+      "product_id": 195,
+      "product_name": "product_195",
+      "category": "Grocery",
+      "price": 4754.62
+    },
+    {
+      "product_id": 196,
+      "product_name": "Product_196",
+      "category": "Fashion",
+      "price": 4286.18
+    },
+    {
+      "product_id": 197,
+      "product_name": "Product_197",
+      "category": NaN,
+      "price": 5788.85
+    },
+    {
+      "product_id": 198,
+      "product_name": "Product_198",
+      "category": "Sports",
+      "price": 6524.46
+    },
+    {
+      "product_id": 199,
+      "product_name": "Product_199",
+      "category": "Sports",
+      "price": 4869.4
+    },
+    {
+      "product_id": 200,
+      "product_name": "Product_200",
+      "category": "Grocery",
+      "price": 659.2
+    },
+    {
+      "product_id": 201,
+      "product_name": "Product_201",
+      "category": "Electronics",
+      "price": 9038.77
+    },
+    {
+      "product_id": 202,
+      "product_name": "Product_202",
+      "category": NaN,
+      "price": 4928.21
+    },
+    {
+      "product_id": 203,
+      "product_name": "Product_203",
+      "category": "Fashion",
+      "price": 2413.89
+    },
+    {
+      "product_id": 204,
+      "product_name": "Product_204",
+      "category": "Grocery",
+      "price": 333.53
+    },
+    {
+      "product_id": 205,
+      "product_name": "Product_205",
+      "category": "Home",
+      "price": 8582.57
+    },
+    {
+      "product_id": 206,
+      "product_name": "Product_206",
+      "category": "Home",
+      "price": 8158.27
+    },
+    {
+      "product_id": 207,
+      "product_name": "Product_207",
+      "category": "Electronics",
+      "price": 6515.82
+    },
+    {
+      "product_id": 208,
+      "product_name": "Product_208",
+      "category": NaN,
+      "price": 7128.52
+    },
+    {
+      "product_id": 209,
+      "product_name": "Product_209",
+      "category": "Grocery",
+      "price": 7378.26
+    },
+    {
+      "product_id": 210,
+      "product_name": "product_210",
+      "category": "Sports",
+      "price": 4539.29
+    },
+    {
+      "product_id": 211,
+      "product_name": "Product_211",
+      "category": "Home",
+      "price": 5874.51
+    },
+    {
+      "product_id": 212,
+      "product_name": "Product_212",
+      "category": "Grocery",
+      "price": 9783.93
+    },
+    {
+      "product_id": 213,
+      "product_name": "Product_213",
+      "category": "Sports",
+      "price": 348.5
+    },
+    {
+      "product_id": 214,
+      "product_name": "Product_214",
+      "category": "Fashion",
+      "price": 5857.32
+    },
+    {
+      "product_id": 215,
+      "product_name": "Product_215",
+      "category": "Electronics",
+      "price": 1555.87
+    },
+    {
+      "product_id": 216,
+      "product_name": "Product_216",
+      "category": "Electronics",
+      "price": 2289.86
+    },
+    {
+      "product_id": 217,
+      "product_name": "Product_217",
+      "category": "Fashion",
+      "price": 2443.66
+    },
+    {
+      "product_id": 218,
+      "product_name": "Product_218",
+      "category": "Fashion",
+      "price": 4619.91
+    },
+    {
+      "product_id": 219,
+      "product_name": "Product_219",
+      "category": "Electronics",
+      "price": 2853.92
+    },
+    {
+      "product_id": 220,
+      "product_name": "Product_220",
+      "category": "Home",
+      "price": 5447.69
+    },
+    {
+      "product_id": 221,
+      "product_name": "Product_221",
+      "category": "Electronics",
+      "price": 9667.96
+    },
+    {
+      "product_id": 222,
+      "product_name": "Product_222",
+      "category": "Fashion",
+      "price": 9855.83
+    },
+    {
+      "product_id": 223,
+      "product_name": "Product_223",
+      "category": "Electronics",
+      "price": 1001.87
+    },
+    {
+      "product_id": 224,
+      "product_name": "Product_224",
+      "category": "Electronics",
+      "price": 5639.23
+    },
+    {
+      "product_id": 225,
+      "product_name": "product_225",
+      "category": "Home",
+      "price": 2138.45
+    },
+    {
+      "product_id": 226,
+      "product_name": "Product_226",
+      "category": "Fashion",
+      "price": 7330.33
+    },
+    {
+      "product_id": 227,
+      "product_name": "Product_227",
+      "category": "Sports",
+      "price": 1504.91
+    },
+    {
+      "product_id": 228,
+      "product_name": "Product_228",
+      "category": "Electronics",
+      "price": 6766.63
+    },
+    {
+      "product_id": 229,
+      "product_name": "Product_229",
+      "category": "Grocery",
+      "price": 1885.09
+    },
+    {
+      "product_id": 230,
+      "product_name": "Product_230",
+      "category": "Home",
+      "price": 2880.96
+    },
+    {
+      "product_id": 231,
+      "product_name": "Product_231",
+      "category": "Home",
+      "price": 9865.53
+    },
+    {
+      "product_id": 232,
+      "product_name": "Product_232",
+      "category": "Grocery",
+      "price": 9589.58
+    },
+    {
+      "product_id": 233,
+      "product_name": "Product_233",
+      "category": "Fashion",
+      "price": 3861.59
+    },
+    {
+      "product_id": 234,
+      "product_name": "Product_234",
+      "category": "Fashion",
+      "price": 2743.04
+    },
+    {
+      "product_id": 235,
+      "product_name": "Product_235",
+      "category": "Fashion",
+      "price": 8610.66
+    },
+    {
+      "product_id": 236,
+      "product_name": "Product_236",
+      "category": "Electronics",
+      "price": 1457.33
+    },
+    {
+      "product_id": 237,
+      "product_name": "Product_237",
+      "category": "Electronics",
+      "price": 3171.37
+    },
+    {
+      "product_id": 238,
+      "product_name": "Product_238",
+      "category": NaN,
+      "price": 9888.79
+    },
+    {
+      "product_id": 239,
+      "product_name": "Product_239",
+      "category": "Grocery",
+      "price": 3578.78
+    },
+    {
+      "product_id": 240,
+      "product_name": "product_240",
+      "category": "Home",
+      "price": 6066.51
+    },
+    {
+      "product_id": 241,
+      "product_name": "Product_241",
+      "category": NaN,
+      "price": 8965.0
+    },
+    {
+      "product_id": 242,
+      "product_name": "Product_242",
+      "category": "Electronics",
+      "price": 2535.14
+    },
+    {
+      "product_id": 243,
+      "product_name": "Product_243",
+      "category": NaN,
+      "price": 862.23
+    },
+    {
+      "product_id": 244,
+      "product_name": "Product_244",
+      "category": "Sports",
+      "price": 5144.52
+    },
+    {
+      "product_id": 245,
+      "product_name": "Product_245",
+      "category": NaN,
+      "price": 6612.48
+    },
+    {
+      "product_id": 246,
+      "product_name": "Product_246",
+      "category": NaN,
+      "price": 8630.47
+    },
+    {
+      "product_id": 247,
+      "product_name": "Product_247",
+      "category": "Fashion",
+      "price": 1339.51
+    },
+    {
+      "product_id": 248,
+      "product_name": "Product_248",
+      "category": "Grocery",
+      "price": 6013.29
+    },
+    {
+      "product_id": 249,
+      "product_name": "Product_249",
+      "category": "Electronics",
+      "price": 5242.42
+    },
+    {
+      "product_id": 250,
+      "product_name": "Product_250",
+      "category": "Sports",
+      "price": 3434.36
+    },
+    {
+      "product_id": 251,
+      "product_name": "Product_251",
+      "category": NaN,
+      "price": 8339.06
+    },
+    {
+      "product_id": 252,
+      "product_name": "Product_252",
+      "category": "Electronics",
+      "price": 1066.67
+    },
+    {
+      "product_id": 253,
+      "product_name": "Product_253",
+      "category": "Electronics",
+      "price": 8437.27
+    },
+    {
+      "product_id": 254,
+      "product_name": "Product_254",
+      "category": "Fashion",
+      "price": 4405.24
+    },
+    {
+      "product_id": 255,
+      "product_name": "product_255",
+      "category": "Electronics",
+      "price": 7793.86
+    },
+    {
+      "product_id": 256,
+      "product_name": "Product_256",
+      "category": "Grocery",
+      "price": 8284.1
+    },
+    {
+      "product_id": 257,
+      "product_name": "Product_257",
+      "category": "Electronics",
+      "price": 6115.4
+    },
+    {
+      "product_id": 258,
+      "product_name": "Product_258",
+      "category": "Sports",
+      "price": 1726.87
+    },
+    {
+      "product_id": 259,
+      "product_name": "Product_259",
+      "category": "Electronics",
+      "price": 2167.48
+    },
+    {
+      "product_id": 260,
+      "product_name": "Product_260",
+      "category": "Sports",
+      "price": 8306.96
+    },
+    {
+      "product_id": 261,
+      "product_name": "Product_261",
+      "category": NaN,
+      "price": 8972.72
+    },
+    {
+      "product_id": 262,
+      "product_name": "Product_262",
+      "category": "Sports",
+      "price": 1191.06
+    },
+    {
+      "product_id": 263,
+      "product_name": "Product_263",
+      "category": "Electronics",
+      "price": 1994.89
+    },
+    {
+      "product_id": 264,
+      "product_name": "Product_264",
+      "category": "Fashion",
+      "price": 4169.47
+    },
+    {
+      "product_id": 265,
+      "product_name": "Product_265",
+      "category": "Electronics",
+      "price": 6005.66
+    },
+    {
+      "product_id": 266,
+      "product_name": "Product_266",
+      "category": "Electronics",
+      "price": 4107.89
+    },
+    {
+      "product_id": 267,
+      "product_name": "Product_267",
+      "category": "Sports",
+      "price": 7952.2
+    },
+    {
+      "product_id": 268,
+      "product_name": "Product_268",
+      "category": "Grocery",
+      "price": 6980.21
+    },
+    {
+      "product_id": 269,
+      "product_name": "Product_269",
+      "category": "Sports",
+      "price": 8516.27
+    },
+    {
+      "product_id": 270,
+      "product_name": "product_270",
+      "category": NaN,
+      "price": 1421.47
+    },
+    {
+      "product_id": 271,
+      "product_name": "Product_271",
+      "category": "Electronics",
+      "price": -67.58
+    },
+    {
+      "product_id": 272,
+      "product_name": "Product_272",
+      "category": "Grocery",
+      "price": 4371.44
+    },
+    {
+      "product_id": 273,
+      "product_name": "Product_273",
+      "category": "Electronics",
+      "price": -67.89
+    },
+    {
+      "product_id": 274,
+      "product_name": "Product_274",
+      "category": "Fashion",
+      "price": 7473.57
+    },
+    {
+      "product_id": 275,
+      "product_name": "Product_275",
+      "category": "Electronics",
+      "price": 3719.73
+    },
+    {
+      "product_id": 276,
+      "product_name": "Product_276",
+      "category": "Fashion",
+      "price": 8684.27
+    },
+    {
+      "product_id": 277,
+      "product_name": "Product_277",
+      "category": "Grocery",
+      "price": 9436.38
+    },
+    {
+      "product_id": 278,
+      "product_name": "Product_278",
+      "category": "Grocery",
+      "price": 9251.51
+    },
+    {
+      "product_id": 279,
+      "product_name": "Product_279",
+      "category": "Fashion",
+      "price": 5603.14
+    },
+    {
+      "product_id": 280,
+      "product_name": "Product_280",
+      "category": "Electronics",
+      "price": 4863.96
+    },
+    {
+      "product_id": 281,
+      "product_name": "Product_281",
+      "category": "Fashion",
+      "price": 4604.16
+    },
+    {
+      "product_id": 282,
+      "product_name": "Product_282",
+      "category": "Grocery",
+      "price": 385.12
+    },
+    {
+      "product_id": 283,
+      "product_name": "Product_283",
+      "category": "Sports",
+      "price": 8327.13
+    },
+    {
+      "product_id": 284,
+      "product_name": "Product_284",
+      "category": NaN,
+      "price": 5041.6
+    },
+    {
+      "product_id": 285,
+      "product_name": "product_285",
+      "category": "Grocery",
+      "price": 9596.82
+    },
+    {
+      "product_id": 286,
+      "product_name": "Product_286",
+      "category": "Sports",
+      "price": 7792.22
+    },
+    {
+      "product_id": 287,
+      "product_name": "Product_287",
+      "category": NaN,
+      "price": 5050.36
+    },
+    {
+      "product_id": 288,
+      "product_name": "Product_288",
+      "category": "Electronics",
+      "price": 6145.79
+    },
+    {
+      "product_id": 289,
+      "product_name": "Product_289",
+      "category": "Home",
+      "price": 946.29
+    },
+    {
+      "product_id": 290,
+      "product_name": "Product_290",
+      "category": "Fashion",
+      "price": 208.8
+    },
+    {
+      "product_id": 291,
+      "product_name": "Product_291",
+      "category": "Electronics",
+      "price": 4493.19
+    },
+    {
+      "product_id": 292,
+      "product_name": "Product_292",
+      "category": NaN,
+      "price": 9496.31
+    },
+    {
+      "product_id": 293,
+      "product_name": "Product_293",
+      "category": "Fashion",
+      "price": 8148.27
+    },
+    {
+      "product_id": 294,
+      "product_name": "Product_294",
+      "category": "Fashion",
+      "price": 1445.99
+    },
+    {
+      "product_id": 295,
+      "product_name": "Product_295",
+      "category": NaN,
+      "price": 74.77
+    },
+    {
+      "product_id": 296,
+      "product_name": "Product_296",
+      "category": "Fashion",
+      "price": 7307.04
+    },
+    {
+      "product_id": 297,
+      "product_name": "Product_297",
+      "category": "Grocery",
+      "price": 8637.11
+    },
+    {
+      "product_id": 298,
+      "product_name": "Product_298",
+      "category": "Home",
+      "price": 1650.72
+    },
+    {
+      "product_id": 299,
+      "product_name": "Product_299",
+      "category": "Sports",
+      "price": 753.35
+    },
+    {
+      "product_id": 300,
+      "product_name": "product_300",
+      "category": "Fashion",
+      "price": 371.92
+    },
+    {
+      "product_id": 301,
+      "product_name": "Product_301",
+      "category": "Grocery",
+      "price": 3612.46
+    },
+    {
+      "product_id": 302,
+      "product_name": "Product_302",
+      "category": "Electronics",
+      "price": 6309.26
+    },
+    {
+      "product_id": 303,
+      "product_name": "Product_303",
+      "category": "Grocery",
+      "price": 4851.01
+    },
+    {
+      "product_id": 304,
+      "product_name": "Product_304",
+      "category": "Grocery",
+      "price": 4964.41
+    },
+    {
+      "product_id": 305,
+      "product_name": "Product_305",
+      "category": "Grocery",
+      "price": 7443.91
+    },
+    {
+      "product_id": 306,
+      "product_name": "Product_306",
+      "category": "Grocery",
+      "price": 4869.04
+    },
+    {
+      "product_id": 307,
+      "product_name": "Product_307",
+      "category": "Home",
+      "price": 2687.6
+    },
+    {
+      "product_id": 308,
+      "product_name": "Product_308",
+      "category": "Sports",
+      "price": 9350.26
+    },
+    {
+      "product_id": 309,
+      "product_name": "Product_309",
+      "category": "Electronics",
+      "price": 144.02
+    },
+    {
+      "product_id": 310,
+      "product_name": "Product_310",
+      "category": NaN,
+      "price": 5398.97
+    },
+    {
+      "product_id": 311,
+      "product_name": "Product_311",
+      "category": "Fashion",
+      "price": 2640.01
+    },
+    {
+      "product_id": 312,
+      "product_name": "Product_312",
+      "category": "Fashion",
+      "price": 1213.59
+    },
+    {
+      "product_id": 313,
+      "product_name": "Product_313",
+      "category": "Sports",
+      "price": 805.76
+    },
+    {
+      "product_id": 314,
+      "product_name": "Product_314",
+      "category": NaN,
+      "price": 2637.42
+    },
+    {
+      "product_id": 315,
+      "product_name": "product_315",
+      "category": NaN,
+      "price": 5897.94
+    },
+    {
+      "product_id": 316,
+      "product_name": "Product_316",
+      "category": "Sports",
+      "price": 6362.37
+    },
+    {
+      "product_id": 317,
+      "product_name": "Product_317",
+      "category": "Electronics",
+      "price": 1447.31
+    },
+    {
+      "product_id": 318,
+      "product_name": "Product_318",
+      "category": "Sports",
+      "price": 5616.58
+    },
+    {
+      "product_id": 319,
+      "product_name": "Product_319",
+      "category": "Electronics",
+      "price": 4343.43
+    },
+    {
+      "product_id": 320,
+      "product_name": "Product_320",
+      "category": "Home",
+      "price": 6171.78
+    },
+    {
+      "product_id": 321,
+      "product_name": "Product_321",
+      "category": "Sports",
+      "price": 1312.73
+    },
+    {
+      "product_id": 322,
+      "product_name": "Product_322",
+      "category": "Grocery",
+      "price": 9401.23
+    },
+    {
+      "product_id": 323,
+      "product_name": "Product_323",
+      "category": "Sports",
+      "price": 4266.35
+    },
+    {
+      "product_id": 324,
+      "product_name": "Product_324",
+      "category": "Electronics",
+      "price": -12.92
+    },
+    {
+      "product_id": 325,
+      "product_name": "Product_325",
+      "category": NaN,
+      "price": 8398.02
+    },
+    {
+      "product_id": 326,
+      "product_name": "Product_326",
+      "category": "Fashion",
+      "price": 1258.59
+    },
+    {
+      "product_id": 327,
+      "product_name": "Product_327",
+      "category": NaN,
+      "price": 3056.14
+    },
+    {
+      "product_id": 328,
+      "product_name": "Product_328",
+      "category": "Electronics",
+      "price": 1672.99
+    },
+    {
+      "product_id": 329,
+      "product_name": "Product_329",
+      "category": "Grocery",
+      "price": 864.13
+    },
+    {
+      "product_id": 330,
+      "product_name": "product_330",
+      "category": "Fashion",
+      "price": 7610.13
+    },
+    {
+      "product_id": 331,
+      "product_name": "Product_331",
+      "category": "Electronics",
+      "price": 788.67
+    },
+    {
+      "product_id": 332,
+      "product_name": "Product_332",
+      "category": "Electronics",
+      "price": 1871.19
+    },
+    {
+      "product_id": 333,
+      "product_name": "Product_333",
+      "category": NaN,
+      "price": 8755.82
+    },
+    {
+      "product_id": 334,
+      "product_name": "Product_334",
+      "category": "Grocery",
+      "price": 917.22
+    },
+    {
+      "product_id": 335,
+      "product_name": "Product_335",
+      "category": "Electronics",
+      "price": 650.52
+    },
+    {
+      "product_id": 336,
+      "product_name": "Product_336",
+      "category": "Sports",
+      "price": 4930.71
+    },
+    {
+      "product_id": 337,
+      "product_name": "Product_337",
+      "category": "Grocery",
+      "price": 7321.56
+    },
+    {
+      "product_id": 338,
+      "product_name": "Product_338",
+      "category": "Sports",
+      "price": 8875.57
+    },
+    {
+      "product_id": 339,
+      "product_name": "Product_339",
+      "category": "Grocery",
+      "price": 7803.92
+    },
+    {
+      "product_id": 340,
+      "product_name": "Product_340",
+      "category": "Sports",
+      "price": 9052.16
+    },
+    {
+      "product_id": 341,
+      "product_name": "Product_341",
+      "category": "Grocery",
+      "price": 2016.05
+    },
+    {
+      "product_id": 342,
+      "product_name": "Product_342",
+      "category": "Sports",
+      "price": 9766.55
+    },
+    {
+      "product_id": 343,
+      "product_name": "Product_343",
+      "category": "Electronics",
+      "price": 616.77
+    },
+    {
+      "product_id": 344,
+      "product_name": "Product_344",
+      "category": "Fashion",
+      "price": 3736.95
+    },
+    {
+      "product_id": 345,
+      "product_name": "product_345",
+      "category": NaN,
+      "price": 8710.22
+    },
+    {
+      "product_id": 346,
+      "product_name": "Product_346",
+      "category": "Grocery",
+      "price": 7529.95
+    },
+    {
+      "product_id": 347,
+      "product_name": "Product_347",
+      "category": "Sports",
+      "price": 6497.37
+    },
+    {
+      "product_id": 348,
+      "product_name": "Product_348",
+      "category": "Sports",
+      "price": 2028.72
+    },
+    {
+      "product_id": 349,
+      "product_name": "Product_349",
+      "category": NaN,
+      "price": 9126.84
+    },
+    {
+      "product_id": 350,
+      "product_name": "Product_350",
+      "category": "Electronics",
+      "price": 7795.07
+    },
+    {
+      "product_id": 351,
+      "product_name": "Product_351",
+      "category": "Sports",
+      "price": 372.43
+    },
+    {
+      "product_id": 352,
+      "product_name": "Product_352",
+      "category": "Home",
+      "price": 5098.5
+    },
+    {
+      "product_id": 353,
+      "product_name": "Product_353",
+      "category": "Electronics",
+      "price": 1056.13
+    },
+    {
+      "product_id": 354,
+      "product_name": "Product_354",
+      "category": "Electronics",
+      "price": 7928.38
+    },
+    {
+      "product_id": 355,
+      "product_name": "Product_355",
+      "category": "Electronics",
+      "price": 5684.95
+    },
+    {
+      "product_id": 356,
+      "product_name": "Product_356",
+      "category": "Electronics",
+      "price": 9520.65
+    },
+    {
+      "product_id": 357,
+      "product_name": "Product_357",
+      "category": "Grocery",
+      "price": 3342.4
+    },
+    {
+      "product_id": 358,
+      "product_name": "Product_358",
+      "category": "Grocery",
+      "price": 9434.54
+    },
+    {
+      "product_id": 359,
+      "product_name": "Product_359",
+      "category": NaN,
+      "price": 3761.71
+    },
+    {
+      "product_id": 360,
+      "product_name": "product_360",
+      "category": "Grocery",
+      "price": 1288.55
+    },
+    {
+      "product_id": 361,
+      "product_name": "Product_361",
+      "category": "Electronics",
+      "price": -88.68
+    },
+    {
+      "product_id": 362,
+      "product_name": "Product_362",
+      "category": "Electronics",
+      "price": 6545.65
+    },
+    {
+      "product_id": 363,
+      "product_name": "Product_363",
+      "category": NaN,
+      "price": 3940.93
+    },
+    {
+      "product_id": 364,
+      "product_name": "Product_364",
+      "category": "Grocery",
+      "price": 8093.25
+    },
+    {
+      "product_id": 365,
+      "product_name": "Product_365",
+      "category": "Sports",
+      "price": 6603.77
+    },
+    {
+      "product_id": 366,
+      "product_name": "Product_366",
+      "category": "Home",
+      "price": 6704.76
+    },
+    {
+      "product_id": 367,
+      "product_name": "Product_367",
+      "category": "Grocery",
+      "price": 6057.24
+    },
+    {
+      "product_id": 368,
+      "product_name": "Product_368",
+      "category": NaN,
+      "price": 255.22
+    },
+    {
+      "product_id": 369,
+      "product_name": "Product_369",
+      "category": "Electronics",
+      "price": 6143.47
+    },
+    {
+      "product_id": 370,
+      "product_name": "Product_370",
+      "category": "Sports",
+      "price": 9821.84
+    },
+    {
+      "product_id": 371,
+      "product_name": "Product_371",
+      "category": "Fashion",
+      "price": 7225.03
+    },
+    {
+      "product_id": 372,
+      "product_name": "Product_372",
+      "category": "Sports",
+      "price": 4697.14
+    },
+    {
+      "product_id": 373,
+      "product_name": "Product_373",
+      "category": "Electronics",
+      "price": 1199.08
+    },
+    {
+      "product_id": 374,
+      "product_name": "Product_374",
+      "category": "Sports",
+      "price": 2958.48
+    },
+    {
+      "product_id": 375,
+      "product_name": "product_375",
+      "category": "Grocery",
+      "price": 7491.52
+    },
+    {
+      "product_id": 376,
+      "product_name": "Product_376",
+      "category": "Grocery",
+      "price": 1377.07
+    },
+    {
+      "product_id": 377,
+      "product_name": "Product_377",
+      "category": NaN,
+      "price": 3784.82
+    },
+    {
+      "product_id": 378,
+      "product_name": "Product_378",
+      "category": "Grocery",
+      "price": 2860.23
+    },
+    {
+      "product_id": 379,
+      "product_name": "Product_379",
+      "category": NaN,
+      "price": 7120.72
+    },
+    {
+      "product_id": 380,
+      "product_name": "Product_380",
+      "category": "Fashion",
+      "price": 6584.76
+    },
+    {
+      "product_id": 381,
+      "product_name": "Product_381",
+      "category": "Sports",
+      "price": 408.9
+    },
+    {
+      "product_id": 382,
+      "product_name": "Product_382",
+      "category": "Grocery",
+      "price": 9140.01
+    },
+    {
+      "product_id": 383,
+      "product_name": "Product_383",
+      "category": "Fashion",
+      "price": 6902.14
+    },
+    {
+      "product_id": 384,
+      "product_name": "Product_384",
+      "category": "Fashion",
+      "price": 8874.33
+    },
+    {
+      "product_id": 385,
+      "product_name": "Product_385",
+      "category": "Grocery",
+      "price": 4260.54
+    },
+    {
+      "product_id": 386,
+      "product_name": "Product_386",
+      "category": "Home",
+      "price": 9923.39
+    },
+    {
+      "product_id": 387,
+      "product_name": "Product_387",
+      "category": NaN,
+      "price": 7656.46
+    },
+    {
+      "product_id": 388,
+      "product_name": "Product_388",
+      "category": "Electronics",
+      "price": 9554.8
+    },
+    {
+      "product_id": 389,
+      "product_name": "Product_389",
+      "category": "Grocery",
+      "price": 4651.38
+    },
+    {
+      "product_id": 390,
+      "product_name": "product_390",
+      "category": NaN,
+      "price": 8707.89
+    },
+    {
+      "product_id": 391,
+      "product_name": "Product_391",
+      "category": "Sports",
+      "price": 827.81
+    },
+    {
+      "product_id": 392,
+      "product_name": "Product_392",
+      "category": "Grocery",
+      "price": 4048.21
+    },
+    {
+      "product_id": 393,
+      "product_name": "Product_393",
+      "category": "Grocery",
+      "price": 1500.58
+    },
+    {
+      "product_id": 394,
+      "product_name": "Product_394",
+      "category": "Fashion",
+      "price": 6451.3
+    },
+    {
+      "product_id": 395,
+      "product_name": "Product_395",
+      "category": "Electronics",
+      "price": 3362.8
+    },
+    {
+      "product_id": 396,
+      "product_name": "Product_396",
+      "category": NaN,
+      "price": 6874.91
+    },
+    {
+      "product_id": 397,
+      "product_name": "Product_397",
+      "category": "Fashion",
+      "price": 5962.23
+    },
+    {
+      "product_id": 398,
+      "product_name": "Product_398",
+      "category": "Fashion",
+      "price": 3630.33
+    },
+    {
+      "product_id": 399,
+      "product_name": "Product_399",
+      "category": "Home",
+      "price": 2920.37
+    },
+    {
+      "product_id": 400,
+      "product_name": "Product_400",
+      "category": "Electronics",
+      "price": 5238.38
+    },
+    {
+      "product_id": 401,
+      "product_name": "Product_401",
+      "category": "Fashion",
+      "price": 6009.98
+    },
+    {
+      "product_id": 402,
+      "product_name": "Product_402",
+      "category": "Electronics",
+      "price": 1413.5
+    },
+    {
+      "product_id": 403,
+      "product_name": "Product_403",
+      "category": "Home",
+      "price": 6732.56
+    },
+    {
+      "product_id": 404,
+      "product_name": "Product_404",
+      "category": "Home",
+      "price": 8232.69
+    },
+    {
+      "product_id": 405,
+      "product_name": "product_405",
+      "category": NaN,
+      "price": 1028.1
+    },
+    {
+      "product_id": 406,
+      "product_name": "Product_406",
+      "category": "Sports",
+      "price": 1281.25
+    },
+    {
+      "product_id": 407,
+      "product_name": "Product_407",
+      "category": "Sports",
+      "price": 3678.22
+    },
+    {
+      "product_id": 408,
+      "product_name": "Product_408",
+      "category": NaN,
+      "price": 8242.82
+    },
+    {
+      "product_id": 409,
+      "product_name": "Product_409",
+      "category": "Home",
+      "price": 3723.87
+    },
+    {
+      "product_id": 410,
+      "product_name": "Product_410",
+      "category": "Fashion",
+      "price": 6836.37
+    },
+    {
+      "product_id": 411,
+      "product_name": "Product_411",
+      "category": NaN,
+      "price": 5010.7
+    },
+    {
+      "product_id": 412,
+      "product_name": "Product_412",
+      "category": "Fashion",
+      "price": 6585.57
+    },
+    {
+      "product_id": 413,
+      "product_name": "Product_413",
+      "category": "Grocery",
+      "price": 2258.22
+    },
+    {
+      "product_id": 414,
+      "product_name": "Product_414",
+      "category": "Grocery",
+      "price": 5343.82
+    },
+    {
+      "product_id": 415,
+      "product_name": "Product_415",
+      "category": "Fashion",
+      "price": 7045.84
+    },
+    {
+      "product_id": 416,
+      "product_name": "Product_416",
+      "category": "Home",
+      "price": 3867.67
+    },
+    {
+      "product_id": 417,
+      "product_name": "Product_417",
+      "category": "Grocery",
+      "price": 4534.47
+    },
+    {
+      "product_id": 418,
+      "product_name": "Product_418",
+      "category": "Grocery",
+      "price": 8399.86
+    },
+    {
+      "product_id": 419,
+      "product_name": "Product_419",
+      "category": "Electronics",
+      "price": 9831.72
+    },
+    {
+      "product_id": 420,
+      "product_name": "product_420",
+      "category": "Grocery",
+      "price": 6601.66
+    },
+    {
+      "product_id": 421,
+      "product_name": "Product_421",
+      "category": "Grocery",
+      "price": 1360.25
+    },
+    {
+      "product_id": 422,
+      "product_name": "Product_422",
+      "category": "Home",
+      "price": 6415.28
+    },
+    {
+      "product_id": 423,
+      "product_name": "Product_423",
+      "category": "Electronics",
+      "price": 7864.76
+    },
+    {
+      "product_id": 424,
+      "product_name": "Product_424",
+      "category": "Home",
+      "price": 9271.29
+    },
+    {
+      "product_id": 425,
+      "product_name": "Product_425",
+      "category": "Fashion",
+      "price": 2079.92
+    },
+    {
+      "product_id": 426,
+      "product_name": "Product_426",
+      "category": "Sports",
+      "price": 4195.59
+    },
+    {
+      "product_id": 427,
+      "product_name": "Product_427",
+      "category": "Sports",
+      "price": 4572.78
+    },
+    {
+      "product_id": 428,
+      "product_name": "Product_428",
+      "category": "Fashion",
+      "price": 6749.51
+    },
+    {
+      "product_id": 429,
+      "product_name": "Product_429",
+      "category": "Grocery",
+      "price": 635.96
+    },
+    {
+      "product_id": 430,
+      "product_name": "Product_430",
+      "category": "Grocery",
+      "price": 9106.2
+    },
+    {
+      "product_id": 431,
+      "product_name": "Product_431",
+      "category": "Grocery",
+      "price": 6520.04
+    },
+    {
+      "product_id": 432,
+      "product_name": "Product_432",
+      "category": "Home",
+      "price": 1251.66
+    },
+    {
+      "product_id": 433,
+      "product_name": "Product_433",
+      "category": "Sports",
+      "price": 7677.18
+    },
+    {
+      "product_id": 434,
+      "product_name": "Product_434",
+      "category": "Home",
+      "price": 1058.6
+    },
+    {
+      "product_id": 435,
+      "product_name": "product_435",
+      "category": "Fashion",
+      "price": 1642.76
+    },
+    {
+      "product_id": 436,
+      "product_name": "Product_436",
+      "category": "Home",
+      "price": 2611.1
+    },
+    {
+      "product_id": 437,
+      "product_name": "Product_437",
+      "category": NaN,
+      "price": 9438.85
+    },
+    {
+      "product_id": 438,
+      "product_name": "Product_438",
+      "category": "Electronics",
+      "price": 443.64
+    },
+    {
+      "product_id": 439,
+      "product_name": "Product_439",
+      "category": "Electronics",
+      "price": 7071.86
+    },
+    {
+      "product_id": 440,
+      "product_name": "Product_440",
+      "category": "Fashion",
+      "price": 3024.16
+    },
+    {
+      "product_id": 441,
+      "product_name": "Product_441",
+      "category": "Electronics",
+      "price": 5770.84
+    },
+    {
+      "product_id": 442,
+      "product_name": "Product_442",
+      "category": "Electronics",
+      "price": 9151.1
+    },
+    {
+      "product_id": 443,
+      "product_name": "Product_443",
+      "category": NaN,
+      "price": 1267.86
+    },
+    {
+      "product_id": 444,
+      "product_name": "Product_444",
+      "category": "Electronics",
+      "price": 9526.82
+    },
+    {
+      "product_id": 445,
+      "product_name": "Product_445",
+      "category": "Home",
+      "price": -21.53
+    },
+    {
+      "product_id": 446,
+      "product_name": "Product_446",
+      "category": "Electronics",
+      "price": 669.0
+    },
+    {
+      "product_id": 447,
+      "product_name": "Product_447",
+      "category": "Electronics",
+      "price": 3599.9
+    },
+    {
+      "product_id": 448,
+      "product_name": "Product_448",
+      "category": "Home",
+      "price": 1365.26
+    },
+    {
+      "product_id": 449,
+      "product_name": "Product_449",
+      "category": "Sports",
+      "price": 8941.58
+    },
+    {
+      "product_id": 450,
+      "product_name": "product_450",
+      "category": "Electronics",
+      "price": 4700.92
+    },
+    {
+      "product_id": 451,
+      "product_name": "Product_451",
+      "category": "Electronics",
+      "price": 37.34
+    },
+    {
+      "product_id": 452,
+      "product_name": "Product_452",
+      "category": NaN,
+      "price": 2263.16
+    },
+    {
+      "product_id": 453,
+      "product_name": "Product_453",
+      "category": "Fashion",
+      "price": 290.6
+    },
+    {
+      "product_id": 454,
+      "product_name": "Product_454",
+      "category": "Grocery",
+      "price": 8788.56
+    },
+    {
+      "product_id": 455,
+      "product_name": "Product_455",
+      "category": "Fashion",
+      "price": -17.51
+    },
+    {
+      "product_id": 456,
+      "product_name": "Product_456",
+      "category": "Electronics",
+      "price": 8840.65
+    },
+    {
+      "product_id": 457,
+      "product_name": "Product_457",
+      "category": NaN,
+      "price": 6512.39
+    },
+    {
+      "product_id": 458,
+      "product_name": "Product_458",
+      "category": "Electronics",
+      "price": 2232.7
+    },
+    {
+      "product_id": 459,
+      "product_name": "Product_459",
+      "category": "Fashion",
+      "price": 392.19
+    },
+    {
+      "product_id": 460,
+      "product_name": "Product_460",
+      "category": "Electronics",
+      "price": 124.28
+    },
+    {
+      "product_id": 461,
+      "product_name": "Product_461",
+      "category": "Home",
+      "price": 7730.07
+    },
+    {
+      "product_id": 462,
+      "product_name": "Product_462",
+      "category": "Home",
+      "price": 2823.04
+    },
+    {
+      "product_id": 463,
+      "product_name": "Product_463",
+      "category": "Sports",
+      "price": 8601.06
+    },
+    {
+      "product_id": 464,
+      "product_name": "Product_464",
+      "category": "Home",
+      "price": 3309.28
+    },
+    {
+      "product_id": 465,
+      "product_name": "product_465",
+      "category": NaN,
+      "price": 8728.23
+    },
+    {
+      "product_id": 466,
+      "product_name": "Product_466",
+      "category": "Home",
+      "price": 4406.28
+    },
+    {
+      "product_id": 467,
+      "product_name": "Product_467",
+      "category": "Home",
+      "price": 1332.43
+    },
+    {
+      "product_id": 468,
+      "product_name": "Product_468",
+      "category": "Fashion",
+      "price": 9712.02
+    },
+    {
+      "product_id": 469,
+      "product_name": "Product_469",
+      "category": "Grocery",
+      "price": 2108.93
+    },
+    {
+      "product_id": 470,
+      "product_name": "Product_470",
+      "category": "Electronics",
+      "price": 8701.8
+    },
+    {
+      "product_id": 471,
+      "product_name": "Product_471",
+      "category": "Fashion",
+      "price": 2060.66
+    },
+    {
+      "product_id": 472,
+      "product_name": "Product_472",
+      "category": NaN,
+      "price": 1389.37
+    },
+    {
+      "product_id": 473,
+      "product_name": "Product_473",
+      "category": "Grocery",
+      "price": 8061.39
+    },
+    {
+      "product_id": 474,
+      "product_name": "Product_474",
+      "category": "Electronics",
+      "price": 3260.69
+    },
+    {
+      "product_id": 475,
+      "product_name": "Product_475",
+      "category": "Home",
+      "price": 9134.5
+    },
+    {
+      "product_id": 476,
+      "product_name": "Product_476",
+      "category": "Grocery",
+      "price": 937.37
+    },
+    {
+      "product_id": 477,
+      "product_name": "Product_477",
+      "category": "Grocery",
+      "price": 4366.49
+    },
+    {
+      "product_id": 478,
+      "product_name": "Product_478",
+      "category": "Fashion",
+      "price": 3309.33
+    },
+    {
+      "product_id": 479,
+      "product_name": "Product_479",
+      "category": NaN,
+      "price": 5982.83
+    },
+    {
+      "product_id": 480,
+      "product_name": "product_480",
+      "category": "Electronics",
+      "price": 2627.35
+    },
+    {
+      "product_id": 481,
+      "product_name": "Product_481",
+      "category": "Sports",
+      "price": 1818.31
+    },
+    {
+      "product_id": 482,
+      "product_name": "Product_482",
+      "category": "Home",
+      "price": 5673.46
+    },
+    {
+      "product_id": 483,
+      "product_name": "Product_483",
+      "category": "Fashion",
+      "price": 1728.67
+    },
+    {
+      "product_id": 484,
+      "product_name": "Product_484",
+      "category": "Home",
+      "price": 7473.43
+    },
+    {
+      "product_id": 485,
+      "product_name": "Product_485",
+      "category": "Electronics",
+      "price": 5171.34
+    },
+    {
+      "product_id": 486,
+      "product_name": "Product_486",
+      "category": NaN,
+      "price": 40.75
+    },
+    {
+      "product_id": 487,
+      "product_name": "Product_487",
+      "category": "Home",
+      "price": 5187.09
+    },
+    {
+      "product_id": 488,
+      "product_name": "Product_488",
+      "category": "Grocery",
+      "price": 6788.99
+    },
+    {
+      "product_id": 489,
+      "product_name": "Product_489",
+      "category": "Home",
+      "price": 3696.82
+    },
+    {
+      "product_id": 490,
+      "product_name": "Product_490",
+      "category": "Fashion",
+      "price": 7384.4
+    },
+    {
+      "product_id": 491,
+      "product_name": "Product_491",
+      "category": "Sports",
+      "price": 4642.55
+    },
+    {
+      "product_id": 492,
+      "product_name": "Product_492",
+      "category": NaN,
+      "price": 595.91
+    },
+    {
+      "product_id": 493,
+      "product_name": "Product_493",
+      "category": NaN,
+      "price": 593.26
+    },
+    {
+      "product_id": 494,
+      "product_name": "Product_494",
+      "category": "Fashion",
+      "price": 9435.37
+    },
+    {
+      "product_id": 495,
+      "product_name": "product_495",
+      "category": "Grocery",
+      "price": 7458.81
+    },
+    {
+      "product_id": 496,
+      "product_name": "Product_496",
+      "category": "Home",
+      "price": 9622.81
+    },
+    {
+      "product_id": 497,
+      "product_name": "Product_497",
+      "category": "Fashion",
+      "price": 3184.65
+    },
+    {
+      "product_id": 498,
+      "product_name": "Product_498",
+      "category": "Grocery",
+      "price": 2633.66
+    },
+    {
+      "product_id": 499,
+      "product_name": "Product_499",
+      "category": "Sports",
+      "price": 3725.74
+    },
+    {
+      "product_id": 500,
+      "product_name": "Product_500",
+      "category": "Fashion",
+      "price": 9108.93
+    },
+    {
+      "product_id": 501,
+      "product_name": "Product_501",
+      "category": "Electronics",
+      "price": 1702.44
+    },
+    {
+      "product_id": 502,
+      "product_name": "Product_502",
+      "category": NaN,
+      "price": 4521.46
+    },
+    {
+      "product_id": 503,
+      "product_name": "Product_503",
+      "category": "Sports",
+      "price": 2105.41
+    },
+    {
+      "product_id": 504,
+      "product_name": "Product_504",
+      "category": "Electronics",
+      "price": 5451.8
+    },
+    {
+      "product_id": 505,
+      "product_name": "Product_505",
+      "category": "Electronics",
+      "price": 8635.06
+    },
+    {
+      "product_id": 506,
+      "product_name": "Product_506",
+      "category": "Electronics",
+      "price": 5433.81
+    },
+    {
+      "product_id": 507,
+      "product_name": "Product_507",
+      "category": "Sports",
+      "price": 5010.1
+    },
+    {
+      "product_id": 508,
+      "product_name": "Product_508",
+      "category": NaN,
+      "price": 2281.54
+    },
+    {
+      "product_id": 509,
+      "product_name": "Product_509",
+      "category": "Home",
+      "price": 136.31
+    },
+    {
+      "product_id": 510,
+      "product_name": "product_510",
+      "category": NaN,
+      "price": 9390.35
+    },
+    {
+      "product_id": 511,
+      "product_name": "Product_511",
+      "category": "Grocery",
+      "price": 4361.45
+    },
+    {
+      "product_id": 512,
+      "product_name": "Product_512",
+      "category": "Electronics",
+      "price": 3387.34
+    },
+    {
+      "product_id": 513,
+      "product_name": "Product_513",
+      "category": "Home",
+      "price": 816.65
+    },
+    {
+      "product_id": 514,
+      "product_name": "Product_514",
+      "category": "Sports",
+      "price": 2904.2
+    },
+    {
+      "product_id": 515,
+      "product_name": "Product_515",
+      "category": "Grocery",
+      "price": 3709.33
+    },
+    {
+      "product_id": 516,
+      "product_name": "Product_516",
+      "category": "Grocery",
+      "price": 4344.26
+    },
+    {
+      "product_id": 517,
+      "product_name": "Product_517",
+      "category": NaN,
+      "price": 4350.64
+    },
+    {
+      "product_id": 518,
+      "product_name": "Product_518",
+      "category": "Electronics",
+      "price": 329.61
+    },
+    {
+      "product_id": 519,
+      "product_name": "Product_519",
+      "category": "Grocery",
+      "price": 4940.22
+    },
+    {
+      "product_id": 520,
+      "product_name": "Product_520",
+      "category": "Home",
+      "price": 6104.56
+    },
+    {
+      "product_id": 521,
+      "product_name": "Product_521",
+      "category": "Grocery",
+      "price": 9883.46
+    },
+    {
+      "product_id": 522,
+      "product_name": "Product_522",
+      "category": "Electronics",
+      "price": 8749.24
+    },
+    {
+      "product_id": 523,
+      "product_name": "Product_523",
+      "category": "Sports",
+      "price": 1481.68
+    },
+    {
+      "product_id": 524,
+      "product_name": "Product_524",
+      "category": "Electronics",
+      "price": 7180.72
+    },
+    {
+      "product_id": 525,
+      "product_name": "product_525",
+      "category": "Fashion",
+      "price": 7163.32
+    },
+    {
+      "product_id": 526,
+      "product_name": "Product_526",
+      "category": "Sports",
+      "price": 334.63
+    },
+    {
+      "product_id": 527,
+      "product_name": "Product_527",
+      "category": "Sports",
+      "price": 2666.44
+    },
+    {
+      "product_id": 528,
+      "product_name": "Product_528",
+      "category": "Home",
+      "price": 2191.94
+    },
+    {
+      "product_id": 529,
+      "product_name": "Product_529",
+      "category": NaN,
+      "price": 302.08
+    },
+    {
+      "product_id": 530,
+      "product_name": "Product_530",
+      "category": "Sports",
+      "price": 9399.92
+    },
+    {
+      "product_id": 531,
+      "product_name": "Product_531",
+      "category": "Grocery",
+      "price": 9212.67
+    },
+    {
+      "product_id": 532,
+      "product_name": "Product_532",
+      "category": "Home",
+      "price": 9741.52
+    },
+    {
+      "product_id": 533,
+      "product_name": "Product_533",
+      "category": "Electronics",
+      "price": 2862.35
+    },
+    {
+      "product_id": 534,
+      "product_name": "Product_534",
+      "category": "Sports",
+      "price": 4156.14
+    },
+    {
+      "product_id": 535,
+      "product_name": "Product_535",
+      "category": "Electronics",
+      "price": 3087.4
+    },
+    {
+      "product_id": 536,
+      "product_name": "Product_536",
+      "category": "Home",
+      "price": 3405.55
+    },
+    {
+      "product_id": 537,
+      "product_name": "Product_537",
+      "category": "Sports",
+      "price": 7098.65
+    },
+    {
+      "product_id": 538,
+      "product_name": "Product_538",
+      "category": "Electronics",
+      "price": 6456.87
+    },
+    {
+      "product_id": 539,
+      "product_name": "Product_539",
+      "category": "Sports",
+      "price": 5229.75
+    },
+    {
+      "product_id": 540,
+      "product_name": "product_540",
+      "category": NaN,
+      "price": 122.8
+    },
+    {
+      "product_id": 541,
+      "product_name": "Product_541",
+      "category": "Grocery",
+      "price": 2333.21
+    },
+    {
+      "product_id": 542,
+      "product_name": "Product_542",
+      "category": "Grocery",
+      "price": 757.9
+    },
+    {
+      "product_id": 543,
+      "product_name": "Product_543",
+      "category": "Grocery",
+      "price": 771.84
+    },
+    {
+      "product_id": 544,
+      "product_name": "Product_544",
+      "category": "Electronics",
+      "price": 9376.21
+    },
+    {
+      "product_id": 545,
+      "product_name": "Product_545",
+      "category": "Sports",
+      "price": 6298.95
+    },
+    {
+      "product_id": 546,
+      "product_name": "Product_546",
+      "category": "Electronics",
+      "price": 4638.22
+    },
+    {
+      "product_id": 547,
+      "product_name": "Product_547",
+      "category": "Sports",
+      "price": 8272.57
+    },
+    {
+      "product_id": 548,
+      "product_name": "Product_548",
+      "category": "Home",
+      "price": 9418.23
+    },
+    {
+      "product_id": 549,
+      "product_name": "Product_549",
+      "category": "Fashion",
+      "price": 7506.18
+    },
+    {
+      "product_id": 550,
+      "product_name": "Product_550",
+      "category": "Fashion",
+      "price": 8142.2
+    },
+    {
+      "product_id": 551,
+      "product_name": "Product_551",
+      "category": "Grocery",
+      "price": 1445.97
+    },
+    {
+      "product_id": 552,
+      "product_name": "Product_552",
+      "category": "Sports",
+      "price": 2960.52
+    },
+    {
+      "product_id": 553,
+      "product_name": "Product_553",
+      "category": "Sports",
+      "price": 7751.31
+    },
+    {
+      "product_id": 554,
+      "product_name": "Product_554",
+      "category": "Electronics",
+      "price": 517.99
+    },
+    {
+      "product_id": 555,
+      "product_name": "product_555",
+      "category": "Electronics",
+      "price": 9480.18
+    },
+    {
+      "product_id": 556,
+      "product_name": "Product_556",
+      "category": "Grocery",
+      "price": 8748.37
+    },
+    {
+      "product_id": 557,
+      "product_name": "Product_557",
+      "category": "Grocery",
+      "price": 9065.09
+    },
+    {
+      "product_id": 558,
+      "product_name": "Product_558",
+      "category": "Home",
+      "price": 6830.37
+    },
+    {
+      "product_id": 559,
+      "product_name": "Product_559",
+      "category": "Grocery",
+      "price": 1513.78
+    },
+    {
+      "product_id": 560,
+      "product_name": "Product_560",
+      "category": NaN,
+      "price": 5367.75
+    },
+    {
+      "product_id": 561,
+      "product_name": "Product_561",
+      "category": "Electronics",
+      "price": 9808.21
+    },
+    {
+      "product_id": 562,
+      "product_name": "Product_562",
+      "category": NaN,
+      "price": 8919.13
+    },
+    {
+      "product_id": 563,
+      "product_name": "Product_563",
+      "category": "Sports",
+      "price": 8087.28
+    },
+    {
+      "product_id": 564,
+      "product_name": "Product_564",
+      "category": "Fashion",
+      "price": 2779.79
+    },
+    {
+      "product_id": 565,
+      "product_name": "Product_565",
+      "category": "Sports",
+      "price": 2953.78
+    },
+    {
+      "product_id": 566,
+      "product_name": "Product_566",
+      "category": "Electronics",
+      "price": 5214.22
+    },
+    {
+      "product_id": 567,
+      "product_name": "Product_567",
+      "category": "Electronics",
+      "price": 4540.35
+    },
+    {
+      "product_id": 568,
+      "product_name": "Product_568",
+      "category": "Fashion",
+      "price": 3124.81
+    },
+    {
+      "product_id": 569,
+      "product_name": "Product_569",
+      "category": NaN,
+      "price": 6189.96
+    },
+    {
+      "product_id": 570,
+      "product_name": "product_570",
+      "category": "Fashion",
+      "price": 5073.6
+    },
+    {
+      "product_id": 571,
+      "product_name": "Product_571",
+      "category": "Sports",
+      "price": 5978.14
+    },
+    {
+      "product_id": 572,
+      "product_name": "Product_572",
+      "category": "Sports",
+      "price": 306.41
+    },
+    {
+      "product_id": 573,
+      "product_name": "Product_573",
+      "category": "Grocery",
+      "price": 6699.26
+    },
+    {
+      "product_id": 574,
+      "product_name": "Product_574",
+      "category": NaN,
+      "price": 1838.35
+    },
+    {
+      "product_id": 575,
+      "product_name": "Product_575",
+      "category": "Electronics",
+      "price": 485.9
+    },
+    {
+      "product_id": 576,
+      "product_name": "Product_576",
+      "category": "Sports",
+      "price": 5677.56
+    },
+    {
+      "product_id": 577,
+      "product_name": "Product_577",
+      "category": "Fashion",
+      "price": 1861.48
+    },
+    {
+      "product_id": 578,
+      "product_name": "Product_578",
+      "category": "Grocery",
+      "price": 1462.89
+    },
+    {
+      "product_id": 579,
+      "product_name": "Product_579",
+      "category": "Home",
+      "price": 16.57
+    },
+    {
+      "product_id": 580,
+      "product_name": "Product_580",
+      "category": "Fashion",
+      "price": 3027.64
+    },
+    {
+      "product_id": 581,
+      "product_name": "Product_581",
+      "category": "Grocery",
+      "price": 8290.95
+    },
+    {
+      "product_id": 582,
+      "product_name": "Product_582",
+      "category": NaN,
+      "price": 7415.55
+    },
+    {
+      "product_id": 583,
+      "product_name": "Product_583",
+      "category": "Fashion",
+      "price": 788.6
+    },
+    {
+      "product_id": 584,
+      "product_name": "Product_584",
+      "category": "Home",
+      "price": 5049.67
+    },
+    {
+      "product_id": 585,
+      "product_name": "product_585",
+      "category": "Electronics",
+      "price": 2945.14
+    },
+    {
+      "product_id": 586,
+      "product_name": "Product_586",
+      "category": "Grocery",
+      "price": 4750.81
+    },
+    {
+      "product_id": 587,
+      "product_name": "Product_587",
+      "category": "Electronics",
+      "price": 7817.18
+    },
+    {
+      "product_id": 588,
+      "product_name": "Product_588",
+      "category": "Home",
+      "price": 4287.75
+    },
+    {
+      "product_id": 589,
+      "product_name": "Product_589",
+      "category": "Home",
+      "price": 8365.04
+    },
+    {
+      "product_id": 590,
+      "product_name": "Product_590",
+      "category": "Fashion",
+      "price": 8241.85
+    },
+    {
+      "product_id": 591,
+      "product_name": "Product_591",
+      "category": "Fashion",
+      "price": 1608.49
+    },
+    {
+      "product_id": 592,
+      "product_name": "Product_592",
+      "category": "Grocery",
+      "price": 2952.97
+    },
+    {
+      "product_id": 593,
+      "product_name": "Product_593",
+      "category": "Home",
+      "price": 6392.03
+    },
+    {
+      "product_id": 594,
+      "product_name": "Product_594",
+      "category": "Electronics",
+      "price": 1586.81
+    },
+    {
+      "product_id": 595,
+      "product_name": "Product_595",
+      "category": "Grocery",
+      "price": 3556.73
+    },
+    {
+      "product_id": 596,
+      "product_name": "Product_596",
+      "category": "Grocery",
+      "price": 5274.14
+    },
+    {
+      "product_id": 597,
+      "product_name": "Product_597",
+      "category": "Electronics",
+      "price": 3448.61
+    },
+    {
+      "product_id": 598,
+      "product_name": "Product_598",
+      "category": NaN,
+      "price": 9340.32
+    },
+    {
+      "product_id": 599,
+      "product_name": "Product_599",
+      "category": "Sports",
+      "price": 5264.32
+    },
+    {
+      "product_id": 600,
+      "product_name": "product_600",
+      "category": "Electronics",
+      "price": 9625.24
+    },
+    {
+      "product_id": 601,
+      "product_name": "Product_601",
+      "category": "Fashion",
+      "price": 6398.22
+    },
+    {
+      "product_id": 602,
+      "product_name": "Product_602",
+      "category": "Electronics",
+      "price": 3864.6
+    },
+    {
+      "product_id": 603,
+      "product_name": "Product_603",
+      "category": "Electronics",
+      "price": 9564.61
+    },
+    {
+      "product_id": 604,
+      "product_name": "Product_604",
+      "category": "Home",
+      "price": 495.72
+    },
+    {
+      "product_id": 605,
+      "product_name": "Product_605",
+      "category": "Sports",
+      "price": 7468.32
+    },
+    {
+      "product_id": 606,
+      "product_name": "Product_606",
+      "category": "Home",
+      "price": 6660.73
+    },
+    {
+      "product_id": 607,
+      "product_name": "Product_607",
+      "category": "Sports",
+      "price": 2200.59
+    },
+    {
+      "product_id": 608,
+      "product_name": "Product_608",
+      "category": "Electronics",
+      "price": 5329.55
+    },
+    {
+      "product_id": 609,
+      "product_name": "Product_609",
+      "category": "Sports",
+      "price": 4578.9
+    },
+    {
+      "product_id": 610,
+      "product_name": "Product_610",
+      "category": "Grocery",
+      "price": 9955.53
+    },
+    {
+      "product_id": 611,
+      "product_name": "Product_611",
+      "category": "Home",
+      "price": 9780.52
+    },
+    {
+      "product_id": 612,
+      "product_name": "Product_612",
+      "category": "Electronics",
+      "price": 3472.83
+    },
+    {
+      "product_id": 613,
+      "product_name": "Product_613",
+      "category": "Home",
+      "price": -97.98
+    },
+    {
+      "product_id": 614,
+      "product_name": "Product_614",
+      "category": "Home",
+      "price": 6097.97
+    },
+    {
+      "product_id": 615,
+      "product_name": "product_615",
+      "category": "Grocery",
+      "price": 1984.04
+    },
+    {
+      "product_id": 616,
+      "product_name": "Product_616",
+      "category": "Fashion",
+      "price": 227.24
+    },
+    {
+      "product_id": 617,
+      "product_name": "Product_617",
+      "category": NaN,
+      "price": 6839.21
+    },
+    {
+      "product_id": 618,
+      "product_name": "Product_618",
+      "category": "Fashion",
+      "price": 3971.0
+    },
+    {
+      "product_id": 619,
+      "product_name": "Product_619",
+      "category": NaN,
+      "price": 7725.72
+    },
+    {
+      "product_id": 620,
+      "product_name": "Product_620",
+      "category": NaN,
+      "price": 8590.59
+    },
+    {
+      "product_id": 621,
+      "product_name": "Product_621",
+      "category": "Fashion",
+      "price": 9600.75
+    },
+    {
+      "product_id": 622,
+      "product_name": "Product_622",
+      "category": "Sports",
+      "price": 2381.35
+    },
+    {
+      "product_id": 623,
+      "product_name": "Product_623",
+      "category": NaN,
+      "price": 9740.91
+    },
+    {
+      "product_id": 624,
+      "product_name": "Product_624",
+      "category": "Grocery",
+      "price": 7388.67
+    },
+    {
+      "product_id": 625,
+      "product_name": "Product_625",
+      "category": "Sports",
+      "price": 1934.11
+    },
+    {
+      "product_id": 626,
+      "product_name": "Product_626",
+      "category": NaN,
+      "price": 3245.18
+    },
+    {
+      "product_id": 627,
+      "product_name": "Product_627",
+      "category": "Grocery",
+      "price": 3019.28
+    },
+    {
+      "product_id": 628,
+      "product_name": "Product_628",
+      "category": "Sports",
+      "price": 7166.27
+    },
+    {
+      "product_id": 629,
+      "product_name": "Product_629",
+      "category": "Grocery",
+      "price": 8596.54
+    },
+    {
+      "product_id": 630,
+      "product_name": "product_630",
+      "category": "Sports",
+      "price": 9162.42
+    },
+    {
+      "product_id": 631,
+      "product_name": "Product_631",
+      "category": "Electronics",
+      "price": 7199.41
+    },
+    {
+      "product_id": 632,
+      "product_name": "Product_632",
+      "category": NaN,
+      "price": 9294.68
+    },
+    {
+      "product_id": 633,
+      "product_name": "Product_633",
+      "category": "Grocery",
+      "price": 2590.9
+    },
+    {
+      "product_id": 634,
+      "product_name": "Product_634",
+      "category": "Home",
+      "price": 1690.64
+    },
+    {
+      "product_id": 635,
+      "product_name": "Product_635",
+      "category": NaN,
+      "price": 8119.81
+    },
+    {
+      "product_id": 636,
+      "product_name": "Product_636",
+      "category": "Electronics",
+      "price": 3248.85
+    },
+    {
+      "product_id": 637,
+      "product_name": "Product_637",
+      "category": "Electronics",
+      "price": 6870.69
+    },
+    {
+      "product_id": 638,
+      "product_name": "Product_638",
+      "category": "Fashion",
+      "price": 4508.0
+    },
+    {
+      "product_id": 639,
+      "product_name": "Product_639",
+      "category": NaN,
+      "price": 4632.99
+    },
+    {
+      "product_id": 640,
+      "product_name": "Product_640",
+      "category": "Electronics",
+      "price": 9780.89
+    },
+    {
+      "product_id": 641,
+      "product_name": "Product_641",
+      "category": "Grocery",
+      "price": 2208.91
+    },
+    {
+      "product_id": 642,
+      "product_name": "Product_642",
+      "category": "Sports",
+      "price": 2438.63
+    },
+    {
+      "product_id": 643,
+      "product_name": "Product_643",
+      "category": "Home",
+      "price": 6740.98
+    },
+    {
+      "product_id": 644,
+      "product_name": "Product_644",
+      "category": "Sports",
+      "price": 192.08
+    },
+    {
+      "product_id": 645,
+      "product_name": "product_645",
+      "category": "Grocery",
+      "price": 8882.48
+    },
+    {
+      "product_id": 646,
+      "product_name": "Product_646",
+      "category": NaN,
+      "price": 5862.42
+    },
+    {
+      "product_id": 647,
+      "product_name": "Product_647",
+      "category": "Grocery",
+      "price": 3401.4
+    },
+    {
+      "product_id": 648,
+      "product_name": "Product_648",
+      "category": "Fashion",
+      "price": 2369.34
+    },
+    {
+      "product_id": 649,
+      "product_name": "Product_649",
+      "category": "Grocery",
+      "price": 8067.17
+    },
+    {
+      "product_id": 650,
+      "product_name": "Product_650",
+      "category": "Sports",
+      "price": 6859.53
+    },
+    {
+      "product_id": 651,
+      "product_name": "Product_651",
+      "category": NaN,
+      "price": 8286.68
+    },
+    {
+      "product_id": 652,
+      "product_name": "Product_652",
+      "category": "Grocery",
+      "price": 4326.82
+    },
+    {
+      "product_id": 653,
+      "product_name": "Product_653",
+      "category": "Electronics",
+      "price": 5899.24
+    },
+    {
+      "product_id": 654,
+      "product_name": "Product_654",
+      "category": "Sports",
+      "price": 3784.18
+    },
+    {
+      "product_id": 655,
+      "product_name": "Product_655",
+      "category": NaN,
+      "price": 6560.98
+    },
+    {
+      "product_id": 656,
+      "product_name": "Product_656",
+      "category": "Fashion",
+      "price": 9732.97
+    },
+    {
+      "product_id": 657,
+      "product_name": "Product_657",
+      "category": NaN,
+      "price": 3917.51
+    },
+    {
+      "product_id": 658,
+      "product_name": "Product_658",
+      "category": "Sports",
+      "price": 7658.88
+    },
+    {
+      "product_id": 659,
+      "product_name": "Product_659",
+      "category": "Home",
+      "price": 5148.48
+    },
+    {
+      "product_id": 660,
+      "product_name": "product_660",
+      "category": "Home",
+      "price": 4358.01
+    },
+    {
+      "product_id": 661,
+      "product_name": "Product_661",
+      "category": NaN,
+      "price": 6398.21
+    },
+    {
+      "product_id": 662,
+      "product_name": "Product_662",
+      "category": "Electronics",
+      "price": 3807.9
+    },
+    {
+      "product_id": 663,
+      "product_name": "Product_663",
+      "category": NaN,
+      "price": 3482.22
+    },
+    {
+      "product_id": 664,
+      "product_name": "Product_664",
+      "category": "Grocery",
+      "price": 7166.7
+    },
+    {
+      "product_id": 665,
+      "product_name": "Product_665",
+      "category": "Home",
+      "price": 942.61
+    },
+    {
+      "product_id": 666,
+      "product_name": "Product_666",
+      "category": "Home",
+      "price": 7241.8
+    },
+    {
+      "product_id": 667,
+      "product_name": "Product_667",
+      "category": "Electronics",
+      "price": 7375.3
+    },
+    {
+      "product_id": 668,
+      "product_name": "Product_668",
+      "category": "Sports",
+      "price": 6946.12
+    },
+    {
+      "product_id": 669,
+      "product_name": "Product_669",
+      "category": "Electronics",
+      "price": 7280.48
+    },
+    {
+      "product_id": 670,
+      "product_name": "Product_670",
+      "category": "Fashion",
+      "price": 7952.38
+    },
+    {
+      "product_id": 671,
+      "product_name": "Product_671",
+      "category": "Electronics",
+      "price": 4008.24
+    },
+    {
+      "product_id": 672,
+      "product_name": "Product_672",
+      "category": "Fashion",
+      "price": 7532.82
+    },
+    {
+      "product_id": 673,
+      "product_name": "Product_673",
+      "category": "Sports",
+      "price": 7195.4
+    },
+    {
+      "product_id": 674,
+      "product_name": "Product_674",
+      "category": NaN,
+      "price": 4117.94
+    },
+    {
+      "product_id": 675,
+      "product_name": "product_675",
+      "category": "Electronics",
+      "price": 1831.32
+    },
+    {
+      "product_id": 676,
+      "product_name": "Product_676",
+      "category": "Sports",
+      "price": 3169.13
+    },
+    {
+      "product_id": 677,
+      "product_name": "Product_677",
+      "category": "Grocery",
+      "price": 7809.12
+    },
+    {
+      "product_id": 678,
+      "product_name": "Product_678",
+      "category": NaN,
+      "price": 8140.0
+    },
+    {
+      "product_id": 679,
+      "product_name": "Product_679",
+      "category": "Home",
+      "price": 1758.4
+    },
+    {
+      "product_id": 680,
+      "product_name": "Product_680",
+      "category": "Sports",
+      "price": 8274.88
+    },
+    {
+      "product_id": 681,
+      "product_name": "Product_681",
+      "category": "Grocery",
+      "price": 2276.28
+    },
+    {
+      "product_id": 682,
+      "product_name": "Product_682",
+      "category": "Fashion",
+      "price": 3103.81
+    },
+    {
+      "product_id": 683,
+      "product_name": "Product_683",
+      "category": "Electronics",
+      "price": 6654.71
+    },
+    {
+      "product_id": 684,
+      "product_name": "Product_684",
+      "category": "Home",
+      "price": 3568.36
+    },
+    {
+      "product_id": 685,
+      "product_name": "Product_685",
+      "category": "Grocery",
+      "price": 5753.13
+    },
+    {
+      "product_id": 686,
+      "product_name": "Product_686",
+      "category": NaN,
+      "price": 6290.87
+    },
+    {
+      "product_id": 687,
+      "product_name": "Product_687",
+      "category": "Home",
+      "price": 5741.95
+    },
+    {
+      "product_id": 688,
+      "product_name": "Product_688",
+      "category": "Fashion",
+      "price": 7142.78
+    },
+    {
+      "product_id": 689,
+      "product_name": "Product_689",
+      "category": "Electronics",
+      "price": 4474.28
+    },
+    {
+      "product_id": 690,
+      "product_name": "product_690",
+      "category": "Grocery",
+      "price": 9883.78
+    },
+    {
+      "product_id": 691,
+      "product_name": "Product_691",
+      "category": "Sports",
+      "price": 9606.79
+    },
+    {
+      "product_id": 692,
+      "product_name": "Product_692",
+      "category": "Sports",
+      "price": 284.31
+    },
+    {
+      "product_id": 693,
+      "product_name": "Product_693",
+      "category": "Fashion",
+      "price": 9040.41
+    },
+    {
+      "product_id": 694,
+      "product_name": "Product_694",
+      "category": "Grocery",
+      "price": 2832.21
+    },
+    {
+      "product_id": 695,
+      "product_name": "Product_695",
+      "category": NaN,
+      "price": 7263.95
+    },
+    {
+      "product_id": 696,
+      "product_name": "Product_696",
+      "category": NaN,
+      "price": 6801.09
+    },
+    {
+      "product_id": 697,
+      "product_name": "Product_697",
+      "category": "Sports",
+      "price": 7286.47
+    },
+    {
+      "product_id": 698,
+      "product_name": "Product_698",
+      "category": NaN,
+      "price": 2954.42
+    },
+    {
+      "product_id": 699,
+      "product_name": "Product_699",
+      "category": "Electronics",
+      "price": 7480.36
+    },
+    {
+      "product_id": 700,
+      "product_name": "Product_700",
+      "category": "Grocery",
+      "price": 7661.24
+    },
+    {
+      "product_id": 701,
+      "product_name": "Product_701",
+      "category": "Home",
+      "price": 3856.13
+    },
+    {
+      "product_id": 702,
+      "product_name": "Product_702",
+      "category": "Grocery",
+      "price": 481.03
+    },
+    {
+      "product_id": 703,
+      "product_name": "Product_703",
+      "category": NaN,
+      "price": 9577.96
+    },
+    {
+      "product_id": 704,
+      "product_name": "Product_704",
+      "category": "Home",
+      "price": 1001.51
+    },
+    {
+      "product_id": 705,
+      "product_name": "product_705",
+      "category": "Sports",
+      "price": 1346.75
+    },
+    {
+      "product_id": 706,
+      "product_name": "Product_706",
+      "category": "Fashion",
+      "price": 5114.44
+    },
+    {
+      "product_id": 707,
+      "product_name": "Product_707",
+      "category": NaN,
+      "price": 3745.37
+    },
+    {
+      "product_id": 708,
+      "product_name": "Product_708",
+      "category": "Grocery",
+      "price": 4179.49
+    },
+    {
+      "product_id": 709,
+      "product_name": "Product_709",
+      "category": "Electronics",
+      "price": 1276.66
+    },
+    {
+      "product_id": 710,
+      "product_name": "Product_710",
+      "category": "Home",
+      "price": 4546.71
+    },
+    {
+      "product_id": 711,
+      "product_name": "Product_711",
+      "category": "Electronics",
+      "price": 6136.62
+    },
+    {
+      "product_id": 712,
+      "product_name": "Product_712",
+      "category": "Electronics",
+      "price": 8233.86
+    },
+    {
+      "product_id": 713,
+      "product_name": "Product_713",
+      "category": "Electronics",
+      "price": 1839.63
+    },
+    {
+      "product_id": 714,
+      "product_name": "Product_714",
+      "category": "Fashion",
+      "price": 5047.32
+    },
+    {
+      "product_id": 715,
+      "product_name": "Product_715",
+      "category": NaN,
+      "price": 1450.8
+    },
+    {
+      "product_id": 716,
+      "product_name": "Product_716",
+      "category": "Home",
+      "price": 4616.17
+    },
+    {
+      "product_id": 717,
+      "product_name": "Product_717",
+      "category": "Grocery",
+      "price": 7789.19
+    },
+    {
+      "product_id": 718,
+      "product_name": "Product_718",
+      "category": "Home",
+      "price": 4818.11
+    },
+    {
+      "product_id": 719,
+      "product_name": "Product_719",
+      "category": "Grocery",
+      "price": 7224.72
+    },
+    {
+      "product_id": 720,
+      "product_name": "product_720",
+      "category": "Fashion",
+      "price": 4073.54
+    },
+    {
+      "product_id": 721,
+      "product_name": "Product_721",
+      "category": "Sports",
+      "price": 4845.79
+    },
+    {
+      "product_id": 722,
+      "product_name": "Product_722",
+      "category": NaN,
+      "price": 4140.81
+    },
+    {
+      "product_id": 723,
+      "product_name": "Product_723",
+      "category": "Electronics",
+      "price": 1984.15
+    },
+    {
+      "product_id": 724,
+      "product_name": "Product_724",
+      "category": "Electronics",
+      "price": 5799.82
+    },
+    {
+      "product_id": 725,
+      "product_name": "Product_725",
+      "category": NaN,
+      "price": 4584.0
+    },
+    {
+      "product_id": 726,
+      "product_name": "Product_726",
+      "category": "Home",
+      "price": 5117.1
+    },
+    {
+      "product_id": 727,
+      "product_name": "Product_727",
+      "category": "Home",
+      "price": 3173.2
+    },
+    {
+      "product_id": 728,
+      "product_name": "Product_728",
+      "category": "Grocery",
+      "price": 7769.94
+    },
+    {
+      "product_id": 729,
+      "product_name": "Product_729",
+      "category": NaN,
+      "price": 5914.2
+    },
+    {
+      "product_id": 730,
+      "product_name": "Product_730",
+      "category": "Home",
+      "price": 9860.36
+    },
+    {
+      "product_id": 731,
+      "product_name": "Product_731",
+      "category": "Home",
+      "price": 5790.29
+    },
+    {
+      "product_id": 732,
+      "product_name": "Product_732",
+      "category": "Fashion",
+      "price": 915.77
+    },
+    {
+      "product_id": 733,
+      "product_name": "Product_733",
+      "category": "Grocery",
+      "price": 229.03
+    },
+    {
+      "product_id": 734,
+      "product_name": "Product_734",
+      "category": "Home",
+      "price": 5102.09
+    },
+    {
+      "product_id": 735,
+      "product_name": "product_735",
+      "category": "Fashion",
+      "price": 7430.61
+    },
+    {
+      "product_id": 736,
+      "product_name": "Product_736",
+      "category": "Fashion",
+      "price": 2213.16
+    },
+    {
+      "product_id": 737,
+      "product_name": "Product_737",
+      "category": "Fashion",
+      "price": 9431.81
+    },
+    {
+      "product_id": 738,
+      "product_name": "Product_738",
+      "category": "Electronics",
+      "price": 8136.54
+    },
+    {
+      "product_id": 739,
+      "product_name": "Product_739",
+      "category": NaN,
+      "price": 7926.46
+    },
+    {
+      "product_id": 740,
+      "product_name": "Product_740",
+      "category": "Fashion",
+      "price": 4738.91
+    },
+    {
+      "product_id": 741,
+      "product_name": "Product_741",
+      "category": "Sports",
+      "price": 6117.76
+    },
+    {
+      "product_id": 742,
+      "product_name": "Product_742",
+      "category": "Sports",
+      "price": 7239.06
+    },
+    {
+      "product_id": 743,
+      "product_name": "Product_743",
+      "category": NaN,
+      "price": 2008.6
+    },
+    {
+      "product_id": 744,
+      "product_name": "Product_744",
+      "category": "Fashion",
+      "price": 8697.7
+    },
+    {
+      "product_id": 745,
+      "product_name": "Product_745",
+      "category": "Fashion",
+      "price": 9534.2
+    },
+    {
+      "product_id": 746,
+      "product_name": "Product_746",
+      "category": "Fashion",
+      "price": 7231.92
+    },
+    {
+      "product_id": 747,
+      "product_name": "Product_747",
+      "category": "Fashion",
+      "price": 4764.43
+    },
+    {
+      "product_id": 748,
+      "product_name": "Product_748",
+      "category": "Fashion",
+      "price": 6507.4
+    },
+    {
+      "product_id": 749,
+      "product_name": "Product_749",
+      "category": "Fashion",
+      "price": 2545.48
+    },
+    {
+      "product_id": 750,
+      "product_name": "product_750",
+      "category": "Electronics",
+      "price": 6440.36
+    },
+    {
+      "product_id": 751,
+      "product_name": "Product_751",
+      "category": "Grocery",
+      "price": 1485.71
+    },
+    {
+      "product_id": 752,
+      "product_name": "Product_752",
+      "category": "Home",
+      "price": 1987.49
+    },
+    {
+      "product_id": 753,
+      "product_name": "Product_753",
+      "category": "Grocery",
+      "price": 7335.6
+    },
+    {
+      "product_id": 754,
+      "product_name": "Product_754",
+      "category": NaN,
+      "price": 1833.39
+    },
+    {
+      "product_id": 755,
+      "product_name": "Product_755",
+      "category": "Electronics",
+      "price": 4607.42
+    },
+    {
+      "product_id": 756,
+      "product_name": "Product_756",
+      "category": "Fashion",
+      "price": 8132.58
+    },
+    {
+      "product_id": 757,
+      "product_name": "Product_757",
+      "category": "Fashion",
+      "price": 3656.53
+    },
+    {
+      "product_id": 758,
+      "product_name": "Product_758",
+      "category": "Electronics",
+      "price": 6256.59
+    },
+    {
+      "product_id": 759,
+      "product_name": "Product_759",
+      "category": "Grocery",
+      "price": 8642.27
+    },
+    {
+      "product_id": 760,
+      "product_name": "Product_760",
+      "category": "Sports",
+      "price": 5993.31
+    },
+    {
+      "product_id": 761,
+      "product_name": "Product_761",
+      "category": NaN,
+      "price": 7627.05
+    },
+    {
+      "product_id": 762,
+      "product_name": "Product_762",
+      "category": "Home",
+      "price": 6961.66
+    },
+    {
+      "product_id": 763,
+      "product_name": "Product_763",
+      "category": "Home",
+      "price": 2585.32
+    },
+    {
+      "product_id": 764,
+      "product_name": "Product_764",
+      "category": "Grocery",
+      "price": 1942.8
+    },
+    {
+      "product_id": 765,
+      "product_name": "product_765",
+      "category": "Grocery",
+      "price": 6963.72
+    },
+    {
+      "product_id": 766,
+      "product_name": "Product_766",
+      "category": "Grocery",
+      "price": 1679.45
+    },
+    {
+      "product_id": 767,
+      "product_name": "Product_767",
+      "category": "Grocery",
+      "price": 8134.27
+    },
+    {
+      "product_id": 768,
+      "product_name": "Product_768",
+      "category": "Fashion",
+      "price": 8862.76
+    },
+    {
+      "product_id": 769,
+      "product_name": "Product_769",
+      "category": "Home",
+      "price": 1925.26
+    },
+    {
+      "product_id": 770,
+      "product_name": "Product_770",
+      "category": NaN,
+      "price": 6608.54
+    },
+    {
+      "product_id": 771,
+      "product_name": "Product_771",
+      "category": "Home",
+      "price": 995.35
+    },
+    {
+      "product_id": 772,
+      "product_name": "Product_772",
+      "category": "Electronics",
+      "price": 9112.11
+    },
+    {
+      "product_id": 773,
+      "product_name": "Product_773",
+      "category": "Fashion",
+      "price": 1543.89
+    },
+    {
+      "product_id": 774,
+      "product_name": "Product_774",
+      "category": "Fashion",
+      "price": 5278.83
+    },
+    {
+      "product_id": 775,
+      "product_name": "Product_775",
+      "category": NaN,
+      "price": 4987.01
+    },
+    {
+      "product_id": 776,
+      "product_name": "Product_776",
+      "category": "Grocery",
+      "price": 4224.79
+    },
+    {
+      "product_id": 777,
+      "product_name": "Product_777",
+      "category": "Home",
+      "price": 8900.48
+    },
+    {
+      "product_id": 778,
+      "product_name": "Product_778",
+      "category": NaN,
+      "price": 406.08
+    },
+    {
+      "product_id": 779,
+      "product_name": "Product_779",
+      "category": "Sports",
+      "price": 7073.54
+    },
+    {
+      "product_id": 780,
+      "product_name": "product_780",
+      "category": "Home",
+      "price": 9894.68
+    },
+    {
+      "product_id": 781,
+      "product_name": "Product_781",
+      "category": "Home",
+      "price": 1700.47
+    },
+    {
+      "product_id": 782,
+      "product_name": "Product_782",
+      "category": "Grocery",
+      "price": 916.58
+    },
+    {
+      "product_id": 783,
+      "product_name": "Product_783",
+      "category": NaN,
+      "price": 2572.23
+    },
+    {
+      "product_id": 784,
+      "product_name": "Product_784",
+      "category": NaN,
+      "price": 6158.03
+    },
+    {
+      "product_id": 785,
+      "product_name": "Product_785",
+      "category": "Sports",
+      "price": 9689.44
+    },
+    {
+      "product_id": 786,
+      "product_name": "Product_786",
+      "category": "Fashion",
+      "price": 6477.31
+    },
+    {
+      "product_id": 787,
+      "product_name": "Product_787",
+      "category": "Electronics",
+      "price": 8361.14
+    },
+    {
+      "product_id": 788,
+      "product_name": "Product_788",
+      "category": "Electronics",
+      "price": 5897.87
+    },
+    {
+      "product_id": 789,
+      "product_name": "Product_789",
+      "category": "Electronics",
+      "price": 3779.43
+    },
+    {
+      "product_id": 790,
+      "product_name": "Product_790",
+      "category": "Home",
+      "price": 7487.03
+    },
+    {
+      "product_id": 791,
+      "product_name": "Product_791",
+      "category": "Grocery",
+      "price": 7870.18
+    },
+    {
+      "product_id": 792,
+      "product_name": "Product_792",
+      "category": "Grocery",
+      "price": 7553.68
+    },
+    {
+      "product_id": 793,
+      "product_name": "Product_793",
+      "category": NaN,
+      "price": 3875.33
+    },
+    {
+      "product_id": 794,
+      "product_name": "Product_794",
+      "category": "Home",
+      "price": 7066.27
+    },
+    {
+      "product_id": 795,
+      "product_name": "product_795",
+      "category": "Sports",
+      "price": 9785.95
+    },
+    {
+      "product_id": 796,
+      "product_name": "Product_796",
+      "category": "Fashion",
+      "price": 2286.31
+    },
+    {
+      "product_id": 797,
+      "product_name": "Product_797",
+      "category": "Electronics",
+      "price": 6381.68
+    },
+    {
+      "product_id": 798,
+      "product_name": "Product_798",
+      "category": "Home",
+      "price": 681.63
+    },
+    {
+      "product_id": 799,
+      "product_name": "Product_799",
+      "category": "Grocery",
+      "price": 9795.99
+    },
+    {
+      "product_id": 800,
+      "product_name": "Product_800",
+      "category": NaN,
+      "price": 9383.42
+    },
+    {
+      "product_id": 801,
+      "product_name": "Product_801",
+      "category": NaN,
+      "price": 8031.67
+    },
+    {
+      "product_id": 802,
+      "product_name": "Product_802",
+      "category": "Sports",
+      "price": 4841.3
+    },
+    {
+      "product_id": 803,
+      "product_name": "Product_803",
+      "category": "Sports",
+      "price": 2970.59
+    },
+    {
+      "product_id": 804,
+      "product_name": "Product_804",
+      "category": "Home",
+      "price": 3407.0
+    },
+    {
+      "product_id": 805,
+      "product_name": "Product_805",
+      "category": "Grocery",
+      "price": 7514.78
+    },
+    {
+      "product_id": 806,
+      "product_name": "Product_806",
+      "category": NaN,
+      "price": 6049.79
+    },
+    {
+      "product_id": 807,
+      "product_name": "Product_807",
+      "category": NaN,
+      "price": 4040.39
+    },
+    {
+      "product_id": 808,
+      "product_name": "Product_808",
+      "category": "Fashion",
+      "price": 4083.08
+    },
+    {
+      "product_id": 809,
+      "product_name": "Product_809",
+      "category": NaN,
+      "price": 6010.02
+    },
+    {
+      "product_id": 810,
+      "product_name": "product_810",
+      "category": NaN,
+      "price": 7747.08
+    },
+    {
+      "product_id": 811,
+      "product_name": "Product_811",
+      "category": "Home",
+      "price": 5741.23
+    },
+    {
+      "product_id": 812,
+      "product_name": "Product_812",
+      "category": "Sports",
+      "price": 7531.73
+    },
+    {
+      "product_id": 813,
+      "product_name": "Product_813",
+      "category": "Fashion",
+      "price": 6514.59
+    },
+    {
+      "product_id": 814,
+      "product_name": "Product_814",
+      "category": "Electronics",
+      "price": 4895.27
+    },
+    {
+      "product_id": 815,
+      "product_name": "Product_815",
+      "category": NaN,
+      "price": 768.31
+    },
+    {
+      "product_id": 816,
+      "product_name": "Product_816",
+      "category": "Electronics",
+      "price": 2125.73
+    },
+    {
+      "product_id": 817,
+      "product_name": "Product_817",
+      "category": NaN,
+      "price": 169.73
+    },
+    {
+      "product_id": 818,
+      "product_name": "Product_818",
+      "category": "Electronics",
+      "price": 8188.15
+    },
+    {
+      "product_id": 819,
+      "product_name": "Product_819",
+      "category": "Home",
+      "price": 2164.97
+    },
+    {
+      "product_id": 820,
+      "product_name": "Product_820",
+      "category": "Electronics",
+      "price": 9534.37
+    },
+    {
+      "product_id": 821,
+      "product_name": "Product_821",
+      "category": "Home",
+      "price": 1728.66
+    },
+    {
+      "product_id": 822,
+      "product_name": "Product_822",
+      "category": "Home",
+      "price": 7219.17
+    },
+    {
+      "product_id": 823,
+      "product_name": "Product_823",
+      "category": "Electronics",
+      "price": 3456.41
+    },
+    {
+      "product_id": 824,
+      "product_name": "Product_824",
+      "category": "Fashion",
+      "price": 955.83
+    },
+    {
+      "product_id": 825,
+      "product_name": "product_825",
+      "category": "Home",
+      "price": 1176.14
+    },
+    {
+      "product_id": 826,
+      "product_name": "Product_826",
+      "category": "Home",
+      "price": 9542.4
+    },
+    {
+      "product_id": 827,
+      "product_name": "Product_827",
+      "category": NaN,
+      "price": 2522.33
+    },
+    {
+      "product_id": 828,
+      "product_name": "Product_828",
+      "category": "Fashion",
+      "price": 5144.53
+    },
+    {
+      "product_id": 829,
+      "product_name": "Product_829",
+      "category": "Fashion",
+      "price": 4439.41
+    },
+    {
+      "product_id": 830,
+      "product_name": "Product_830",
+      "category": "Fashion",
+      "price": 2489.8
+    },
+    {
+      "product_id": 831,
+      "product_name": "Product_831",
+      "category": "Home",
+      "price": 516.38
+    },
+    {
+      "product_id": 832,
+      "product_name": "Product_832",
+      "category": NaN,
+      "price": 4784.98
+    },
+    {
+      "product_id": 833,
+      "product_name": "Product_833",
+      "category": "Fashion",
+      "price": 8634.21
+    },
+    {
+      "product_id": 834,
+      "product_name": "Product_834",
+      "category": "Fashion",
+      "price": 307.81
+    },
+    {
+      "product_id": 835,
+      "product_name": "Product_835",
+      "category": "Fashion",
+      "price": 8244.44
+    },
+    {
+      "product_id": 836,
+      "product_name": "Product_836",
+      "category": "Home",
+      "price": 7401.33
+    },
+    {
+      "product_id": 837,
+      "product_name": "Product_837",
+      "category": "Sports",
+      "price": 7491.73
+    },
+    {
+      "product_id": 838,
+      "product_name": "Product_838",
+      "category": "Sports",
+      "price": 171.6
+    },
+    {
+      "product_id": 839,
+      "product_name": "Product_839",
+      "category": NaN,
+      "price": 2594.31
+    },
+    {
+      "product_id": 840,
+      "product_name": "product_840",
+      "category": "Sports",
+      "price": 6510.02
+    },
+    {
+      "product_id": 841,
+      "product_name": "Product_841",
+      "category": "Sports",
+      "price": 9126.76
+    },
+    {
+      "product_id": 842,
+      "product_name": "Product_842",
+      "category": "Grocery",
+      "price": 2707.79
+    },
+    {
+      "product_id": 843,
+      "product_name": "Product_843",
+      "category": "Grocery",
+      "price": 3230.51
+    },
+    {
+      "product_id": 844,
+      "product_name": "Product_844",
+      "category": "Sports",
+      "price": 6038.15
+    },
+    {
+      "product_id": 845,
+      "product_name": "Product_845",
+      "category": NaN,
+      "price": 4737.75
+    },
+    {
+      "product_id": 846,
+      "product_name": "Product_846",
+      "category": "Home",
+      "price": 9528.29
+    },
+    {
+      "product_id": 847,
+      "product_name": "Product_847",
+      "category": NaN,
+      "price": 6317.81
+    },
+    {
+      "product_id": 848,
+      "product_name": "Product_848",
+      "category": "Sports",
+      "price": 8428.53
+    },
+    {
+      "product_id": 849,
+      "product_name": "Product_849",
+      "category": NaN,
+      "price": 2709.68
+    },
+    {
+      "product_id": 850,
+      "product_name": "Product_850",
+      "category": "Home",
+      "price": -51.55
+    },
+    {
+      "product_id": 851,
+      "product_name": "Product_851",
+      "category": "Home",
+      "price": 3965.81
+    },
+    {
+      "product_id": 852,
+      "product_name": "Product_852",
+      "category": "Sports",
+      "price": 6237.35
+    },
+    {
+      "product_id": 853,
+      "product_name": "Product_853",
+      "category": NaN,
+      "price": 3738.54
+    },
+    {
+      "product_id": 854,
+      "product_name": "Product_854",
+      "category": "Sports",
+      "price": 3403.53
+    },
+    {
+      "product_id": 855,
+      "product_name": "product_855",
+      "category": "Fashion",
+      "price": 3846.69
+    },
+    {
+      "product_id": 856,
+      "product_name": "Product_856",
+      "category": "Grocery",
+      "price": 1444.35
+    },
+    {
+      "product_id": 857,
+      "product_name": "Product_857",
+      "category": "Electronics",
+      "price": 4481.08
+    },
+    {
+      "product_id": 858,
+      "product_name": "Product_858",
+      "category": "Home",
+      "price": 8525.92
+    },
+    {
+      "product_id": 859,
+      "product_name": "Product_859",
+      "category": "Grocery",
+      "price": 6264.62
+    },
+    {
+      "product_id": 860,
+      "product_name": "Product_860",
+      "category": "Home",
+      "price": 6911.74
+    },
+    {
+      "product_id": 861,
+      "product_name": "Product_861",
+      "category": "Electronics",
+      "price": 1129.25
+    },
+    {
+      "product_id": 862,
+      "product_name": "Product_862",
+      "category": "Grocery",
+      "price": 9042.88
+    },
+    {
+      "product_id": 863,
+      "product_name": "Product_863",
+      "category": NaN,
+      "price": 1334.0
+    },
+    {
+      "product_id": 864,
+      "product_name": "Product_864",
+      "category": NaN,
+      "price": 4829.27
+    },
+    {
+      "product_id": 865,
+      "product_name": "Product_865",
+      "category": "Sports",
+      "price": 8924.87
+    },
+    {
+      "product_id": 866,
+      "product_name": "Product_866",
+      "category": "Fashion",
+      "price": 3011.44
+    },
+    {
+      "product_id": 867,
+      "product_name": "Product_867",
+      "category": "Sports",
+      "price": 5543.76
+    },
+    {
+      "product_id": 868,
+      "product_name": "Product_868",
+      "category": "Electronics",
+      "price": 2744.73
+    },
+    {
+      "product_id": 869,
+      "product_name": "Product_869",
+      "category": "Grocery",
+      "price": 4087.95
+    },
+    {
+      "product_id": 870,
+      "product_name": "product_870",
+      "category": "Grocery",
+      "price": 4238.53
+    },
+    {
+      "product_id": 871,
+      "product_name": "Product_871",
+      "category": "Home",
+      "price": 7149.45
+    },
+    {
+      "product_id": 872,
+      "product_name": "Product_872",
+      "category": "Electronics",
+      "price": 9053.83
+    },
+    {
+      "product_id": 873,
+      "product_name": "Product_873",
+      "category": NaN,
+      "price": 5343.81
+    },
+    {
+      "product_id": 874,
+      "product_name": "Product_874",
+      "category": NaN,
+      "price": 8773.25
+    },
+    {
+      "product_id": 875,
+      "product_name": "Product_875",
+      "category": "Fashion",
+      "price": 9047.28
+    },
+    {
+      "product_id": 876,
+      "product_name": "Product_876",
+      "category": "Electronics",
+      "price": 8749.14
+    },
+    {
+      "product_id": 877,
+      "product_name": "Product_877",
+      "category": "Sports",
+      "price": 9874.43
+    },
+    {
+      "product_id": 878,
+      "product_name": "Product_878",
+      "category": "Grocery",
+      "price": 1792.41
+    },
+    {
+      "product_id": 879,
+      "product_name": "Product_879",
+      "category": "Home",
+      "price": 5089.44
+    },
+    {
+      "product_id": 880,
+      "product_name": "Product_880",
+      "category": NaN,
+      "price": 2599.98
+    },
+    {
+      "product_id": 881,
+      "product_name": "Product_881",
+      "category": NaN,
+      "price": 4425.37
+    },
+    {
+      "product_id": 882,
+      "product_name": "Product_882",
+      "category": "Sports",
+      "price": 7553.04
+    },
+    {
+      "product_id": 883,
+      "product_name": "Product_883",
+      "category": "Home",
+      "price": 1551.62
+    },
+    {
+      "product_id": 884,
+      "product_name": "Product_884",
+      "category": "Home",
+      "price": 8089.46
+    },
+    {
+      "product_id": 885,
+      "product_name": "product_885",
+      "category": NaN,
+      "price": 1909.12
+    },
+    {
+      "product_id": 886,
+      "product_name": "Product_886",
+      "category": "Fashion",
+      "price": 2926.35
+    },
+    {
+      "product_id": 887,
+      "product_name": "Product_887",
+      "category": "Fashion",
+      "price": 8923.48
+    },
+    {
+      "product_id": 888,
+      "product_name": "Product_888",
+      "category": "Fashion",
+      "price": 2028.58
+    },
+    {
+      "product_id": 889,
+      "product_name": "Product_889",
+      "category": "Grocery",
+      "price": 798.16
+    },
+    {
+      "product_id": 890,
+      "product_name": "Product_890",
+      "category": NaN,
+      "price": 106.2
+    },
+    {
+      "product_id": 891,
+      "product_name": "Product_891",
+      "category": NaN,
+      "price": 6509.77
+    },
+    {
+      "product_id": 892,
+      "product_name": "Product_892",
+      "category": "Fashion",
+      "price": 9191.26
+    },
+    {
+      "product_id": 893,
+      "product_name": "Product_893",
+      "category": NaN,
+      "price": 9102.48
+    },
+    {
+      "product_id": 894,
+      "product_name": "Product_894",
+      "category": "Electronics",
+      "price": 5398.25
+    },
+    {
+      "product_id": 895,
+      "product_name": "Product_895",
+      "category": "Home",
+      "price": 8608.84
+    },
+    {
+      "product_id": 896,
+      "product_name": "Product_896",
+      "category": "Fashion",
+      "price": 5492.91
+    },
+    {
+      "product_id": 897,
+      "product_name": "Product_897",
+      "category": "Electronics",
+      "price": 8887.91
+    },
+    {
+      "product_id": 898,
+      "product_name": "Product_898",
+      "category": NaN,
+      "price": 6300.68
+    },
+    {
+      "product_id": 899,
+      "product_name": "Product_899",
+      "category": "Sports",
+      "price": 5511.13
+    },
+    {
+      "product_id": 900,
+      "product_name": "product_900",
+      "category": NaN,
+      "price": 3398.67
+    },
+    {
+      "product_id": 901,
+      "product_name": "Product_901",
+      "category": NaN,
+      "price": 2304.72
+    },
+    {
+      "product_id": 902,
+      "product_name": "Product_902",
+      "category": "Home",
+      "price": 2670.06
+    },
+    {
+      "product_id": 903,
+      "product_name": "Product_903",
+      "category": "Home",
+      "price": 7001.09
+    },
+    {
+      "product_id": 904,
+      "product_name": "Product_904",
+      "category": "Sports",
+      "price": 6635.0
+    },
+    {
+      "product_id": 905,
+      "product_name": "Product_905",
+      "category": NaN,
+      "price": 5318.17
+    },
+    {
+      "product_id": 906,
+      "product_name": "Product_906",
+      "category": "Sports",
+      "price": 5831.09
+    },
+    {
+      "product_id": 907,
+      "product_name": "Product_907",
+      "category": "Grocery",
+      "price": 6998.55
+    },
+    {
+      "product_id": 908,
+      "product_name": "Product_908",
+      "category": "Grocery",
+      "price": 5408.2
+    },
+    {
+      "product_id": 909,
+      "product_name": "Product_909",
+      "category": "Grocery",
+      "price": 1169.58
+    },
+    {
+      "product_id": 910,
+      "product_name": "Product_910",
+      "category": "Home",
+      "price": 6760.45
+    },
+    {
+      "product_id": 911,
+      "product_name": "Product_911",
+      "category": NaN,
+      "price": 4022.4
+    },
+    {
+      "product_id": 912,
+      "product_name": "Product_912",
+      "category": "Fashion",
+      "price": 2594.3
+    },
+    {
+      "product_id": 913,
+      "product_name": "Product_913",
+      "category": "Sports",
+      "price": 9480.92
+    },
+    {
+      "product_id": 914,
+      "product_name": "Product_914",
+      "category": "Fashion",
+      "price": 2571.06
+    },
+    {
+      "product_id": 915,
+      "product_name": "product_915",
+      "category": NaN,
+      "price": 4210.08
+    },
+    {
+      "product_id": 916,
+      "product_name": "Product_916",
+      "category": "Grocery",
+      "price": 4594.3
+    },
+    {
+      "product_id": 917,
+      "product_name": "Product_917",
+      "category": "Fashion",
+      "price": 639.21
+    },
+    {
+      "product_id": 918,
+      "product_name": "Product_918",
+      "category": "Electronics",
+      "price": 8183.02
+    },
+    {
+      "product_id": 919,
+      "product_name": "Product_919",
+      "category": "Fashion",
+      "price": 77.35
+    },
+    {
+      "product_id": 920,
+      "product_name": "Product_920",
+      "category": "Sports",
+      "price": 8811.04
+    },
+    {
+      "product_id": 921,
+      "product_name": "Product_921",
+      "category": "Sports",
+      "price": 8741.19
+    },
+    {
+      "product_id": 922,
+      "product_name": "Product_922",
+      "category": "Fashion",
+      "price": 440.35
+    },
+    {
+      "product_id": 923,
+      "product_name": "Product_923",
+      "category": "Grocery",
+      "price": 3255.34
+    },
+    {
+      "product_id": 924,
+      "product_name": "Product_924",
+      "category": "Home",
+      "price": 9369.67
+    },
+    {
+      "product_id": 925,
+      "product_name": "Product_925",
+      "category": "Electronics",
+      "price": 9529.18
+    },
+    {
+      "product_id": 926,
+      "product_name": "Product_926",
+      "category": "Grocery",
+      "price": 8707.82
+    },
+    {
+      "product_id": 927,
+      "product_name": "Product_927",
+      "category": "Fashion",
+      "price": 3264.7
+    },
+    {
+      "product_id": 928,
+      "product_name": "Product_928",
+      "category": "Home",
+      "price": 9494.29
+    },
+    {
+      "product_id": 929,
+      "product_name": "Product_929",
+      "category": "Home",
+      "price": 3646.4
+    },
+    {
+      "product_id": 930,
+      "product_name": "product_930",
+      "category": "Fashion",
+      "price": 8108.21
+    },
+    {
+      "product_id": 931,
+      "product_name": "Product_931",
+      "category": "Sports",
+      "price": 9884.37
+    },
+    {
+      "product_id": 932,
+      "product_name": "Product_932",
+      "category": NaN,
+      "price": 1889.83
+    },
+    {
+      "product_id": 933,
+      "product_name": "Product_933",
+      "category": "Sports",
+      "price": 599.38
+    },
+    {
+      "product_id": 934,
+      "product_name": "Product_934",
+      "category": "Grocery",
+      "price": 1464.67
+    },
+    {
+      "product_id": 935,
+      "product_name": "Product_935",
+      "category": "Grocery",
+      "price": 2424.3
+    },
+    {
+      "product_id": 936,
+      "product_name": "Product_936",
+      "category": "Grocery",
+      "price": 2459.51
+    },
+    {
+      "product_id": 937,
+      "product_name": "Product_937",
+      "category": "Fashion",
+      "price": 488.15
+    },
+    {
+      "product_id": 938,
+      "product_name": "Product_938",
+      "category": "Grocery",
+      "price": 1411.11
+    },
+    {
+      "product_id": 939,
+      "product_name": "Product_939",
+      "category": "Electronics",
+      "price": 8796.55
+    },
+    {
+      "product_id": 940,
+      "product_name": "Product_940",
+      "category": "Fashion",
+      "price": 3125.53
+    },
+    {
+      "product_id": 941,
+      "product_name": "Product_941",
+      "category": "Fashion",
+      "price": 6754.32
+    },
+    {
+      "product_id": 942,
+      "product_name": "Product_942",
+      "category": "Electronics",
+      "price": 1644.46
+    },
+    {
+      "product_id": 943,
+      "product_name": "Product_943",
+      "category": NaN,
+      "price": 9247.76
+    },
+    {
+      "product_id": 944,
+      "product_name": "Product_944",
+      "category": NaN,
+      "price": 1214.12
+    },
+    {
+      "product_id": 945,
+      "product_name": "product_945",
+      "category": "Electronics",
+      "price": 2923.22
+    },
+    {
+      "product_id": 946,
+      "product_name": "Product_946",
+      "category": "Fashion",
+      "price": 1804.38
+    },
+    {
+      "product_id": 947,
+      "product_name": "Product_947",
+      "category": "Electronics",
+      "price": 3547.55
+    },
+    {
+      "product_id": 948,
+      "product_name": "Product_948",
+      "category": "Electronics",
+      "price": 9160.59
+    },
+    {
+      "product_id": 949,
+      "product_name": "Product_949",
+      "category": "Sports",
+      "price": 3949.47
+    },
+    {
+      "product_id": 950,
+      "product_name": "Product_950",
+      "category": "Sports",
+      "price": 4073.48
+    },
+    {
+      "product_id": 951,
+      "product_name": "Product_951",
+      "category": "Grocery",
+      "price": 9143.36
+    },
+    {
+      "product_id": 952,
+      "product_name": "Product_952",
+      "category": NaN,
+      "price": 8912.15
+    },
+    {
+      "product_id": 953,
+      "product_name": "Product_953",
+      "category": "Fashion",
+      "price": 2626.99
+    },
+    {
+      "product_id": 954,
+      "product_name": "Product_954",
+      "category": "Electronics",
+      "price": 7329.02
+    },
+    {
+      "product_id": 955,
+      "product_name": "Product_955",
+      "category": "Grocery",
+      "price": 518.14
+    },
+    {
+      "product_id": 956,
+      "product_name": "Product_956",
+      "category": "Home",
+      "price": 5442.68
+    },
+    {
+      "product_id": 957,
+      "product_name": "Product_957",
+      "category": "Grocery",
+      "price": 9454.14
+    },
+    {
+      "product_id": 958,
+      "product_name": "Product_958",
+      "category": "Fashion",
+      "price": 6252.76
+    },
+    {
+      "product_id": 959,
+      "product_name": "Product_959",
+      "category": "Sports",
+      "price": 5094.91
+    },
+    {
+      "product_id": 960,
+      "product_name": "product_960",
+      "category": "Grocery",
+      "price": 7852.19
+    },
+    {
+      "product_id": 961,
+      "product_name": "Product_961",
+      "category": "Grocery",
+      "price": 2222.65
+    },
+    {
+      "product_id": 962,
+      "product_name": "Product_962",
+      "category": "Electronics",
+      "price": 5577.75
+    },
+    {
+      "product_id": 963,
+      "product_name": "Product_963",
+      "category": "Electronics",
+      "price": 9492.08
+    },
+    {
+      "product_id": 964,
+      "product_name": "Product_964",
+      "category": NaN,
+      "price": 9885.97
+    },
+    {
+      "product_id": 965,
+      "product_name": "Product_965",
+      "category": "Home",
+      "price": 7849.34
+    },
+    {
+      "product_id": 966,
+      "product_name": "Product_966",
+      "category": NaN,
+      "price": 2682.39
+    },
+    {
+      "product_id": 967,
+      "product_name": "Product_967",
+      "category": "Electronics",
+      "price": 9457.33
+    },
+    {
+      "product_id": 968,
+      "product_name": "Product_968",
+      "category": "Home",
+      "price": 2860.95
+    },
+    {
+      "product_id": 969,
+      "product_name": "Product_969",
+      "category": "Electronics",
+      "price": 6501.46
+    },
+    {
+      "product_id": 970,
+      "product_name": "Product_970",
+      "category": "Electronics",
+      "price": 6382.28
+    },
+    {
+      "product_id": 971,
+      "product_name": "Product_971",
+      "category": "Home",
+      "price": 5099.05
+    },
+    {
+      "product_id": 972,
+      "product_name": "Product_972",
+      "category": "Sports",
+      "price": 5008.57
+    },
+    {
+      "product_id": 973,
+      "product_name": "Product_973",
+      "category": "Grocery",
+      "price": 7125.24
+    },
+    {
+      "product_id": 974,
+      "product_name": "Product_974",
+      "category": "Sports",
+      "price": 8069.94
+    },
+    {
+      "product_id": 975,
+      "product_name": "product_975",
+      "category": "Electronics",
+      "price": 3601.25
+    },
+    {
+      "product_id": 976,
+      "product_name": "Product_976",
+      "category": NaN,
+      "price": 5005.73
+    },
+    {
+      "product_id": 977,
+      "product_name": "Product_977",
+      "category": "Home",
+      "price": 1877.42
+    },
+    {
+      "product_id": 978,
+      "product_name": "Product_978",
+      "category": "Grocery",
+      "price": 5258.38
+    },
+    {
+      "product_id": 979,
+      "product_name": "Product_979",
+      "category": "Electronics",
+      "price": 1665.47
+    },
+    {
+      "product_id": 980,
+      "product_name": "Product_980",
+      "category": "Electronics",
+      "price": 4222.16
+    },
+    {
+      "product_id": 981,
+      "product_name": "Product_981",
+      "category": "Home",
+      "price": 3961.02
+    },
+    {
+      "product_id": 982,
+      "product_name": "Product_982",
+      "category": "Grocery",
+      "price": 9770.56
+    },
+    {
+      "product_id": 983,
+      "product_name": "Product_983",
+      "category": "Home",
+      "price": 3007.18
+    },
+    {
+      "product_id": 984,
+      "product_name": "Product_984",
+      "category": "Home",
+      "price": 8320.17
+    },
+    {
+      "product_id": 985,
+      "product_name": "Product_985",
+      "category": "Electronics",
+      "price": 6634.15
+    },
+    {
+      "product_id": 986,
+      "product_name": "Product_986",
+      "category": "Grocery",
+      "price": 6755.78
+    },
+    {
+      "product_id": 987,
+      "product_name": "Product_987",
+      "category": "Electronics",
+      "price": 2497.04
+    },
+    {
+      "product_id": 988,
+      "product_name": "Product_988",
+      "category": NaN,
+      "price": 7263.68
+    },
+    {
+      "product_id": 989,
+      "product_name": "Product_989",
+      "category": "Electronics",
+      "price": 2250.51
+    },
+    {
+      "product_id": 990,
+      "product_name": "product_990",
+      "category": "Grocery",
+      "price": 6729.89
+    },
+    {
+      "product_id": 991,
+      "product_name": "Product_991",
+      "category": "Home",
+      "price": 5745.51
+    },
+    {
+      "product_id": 992,
+      "product_name": "Product_992",
+      "category": NaN,
+      "price": 5790.45
+    },
+    {
+      "product_id": 993,
+      "product_name": "Product_993",
+      "category": "Electronics",
+      "price": 1934.5
+    },
+    {
+      "product_id": 994,
+      "product_name": "Product_994",
+      "category": "Home",
+      "price": 1286.69
+    },
+    {
+      "product_id": 995,
+      "product_name": "Product_995",
+      "category": "Home",
+      "price": 4133.38
+    },
+    {
+      "product_id": 996,
+      "product_name": "Product_996",
+      "category": "Electronics",
+      "price": 1598.6
+    },
+    {
+      "product_id": 997,
+      "product_name": "Product_997",
+      "category": "Grocery",
+      "price": 1636.82
+    },
+    {
+      "product_id": 998,
+      "product_name": "Product_998",
+      "category": "Home",
+      "price": 874.07
+    },
+    {
+      "product_id": 999,
+      "product_name": "Product_999",
+      "category": NaN,
+      "price": 3836.2
+    },
+    {
+      "product_id": 1000,
+      "product_name": "Product_1000",
+      "category": "Home",
+      "price": 8356.67
+    }
+  ]
+}
