@@ -6001,6 +6001,66 @@
       "product_name": "Product_1000",
       "category": "Home",
       "price": 8356.67
-    }
+    },
+    {
+  "product_id": 1001,
+  "product_name": "",
+  "category": " Electronics ",
+  "price": 5000
+},
+{
+  "product_id": 1002,
+  "product_name": "Test Product",
+  "category": "",
+  "price": 2500
+},
+{
+  "product_id": 1003,
+  "product_name": "Luxury Product",
+  "category": "InvalidCategory",
+  "price": 999999
+},
+{
+  "product_id": 1004,
+  "product_name": "product_1004",
+  "category": null,
+  "price": 4500
+},
+{
+  "product_id": 1005,
+  "product_name": "Product_1005",
+  "category": "Fashion",
+  "price": -500
+},
+{
+  "product_id": 1006,
+  "product_name": "   Product_1006   ",
+  "category": "Sports",
+  "price": 3500
+},
+{
+  "product_id": 1007,
+  "product_name": "Product_1007",
+  "category": "HOME",
+  "price": 2800
+},
+{
+  "product_id": 1008,
+  "product_name": "Product_1008",
+  "category": "electronics",
+  "price": 6200
+},
+{
+  "product_id": 1009,
+  "product_name": null,
+  "category": "Grocery",
+  "price": 1800
+},
+{
+  "product_id": 1010,
+  "product_name": "Product_1010",
+  "category": "Sports",
+  "price": 0
+}
   ]
 }
